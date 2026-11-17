@@ -1,0 +1,7 @@
+employee_id,name,role,hourly_cost_eur,employment_status,start_date
+EMP01,Emma Laurent,Manager,18.5,active,2024-10-01
+EMP02,Noah Martin,Cashier,13.5,active,2024-10-01
+EMP03,Sofia Bernard,Stock assistant,14.0,active,2024-10-01
+EMP04,Lucas Petit,Sales assistant,13.8,active,2024-10-01
+EMP05,Mia Dubois,Part-time cashier,13.2,active,2024-10-01
+EMP06,Adam Moreau,Weekend assistant,13.2,active,2024-10-01

@@ -1,0 +1,1748 @@
+date,product_id,fruit,units_wasted,reason,estimated_cost_eur
+2025-01-01,MAN,Mangoes,1,damaged packaging,1.8
+2025-01-01,PEA,Pears,1,damaged packaging,1.0
+2025-01-01,KWI,Kiwis,2,overripe,1.5
+2025-01-01,LEM,Lemons,3,bruised,1.5
+2025-01-02,APL,Apples,2,damaged packaging,2.2
+2025-01-02,ORG,Oranges,2,bruised,1.7
+2025-01-02,STR,Strawberries,1,overripe,2.2
+2025-01-02,BLU,Blueberries,1,damaged packaging,2.5
+2025-01-02,LEM,Lemons,1,damaged packaging,0.5
+2025-01-03,MAN,Mangoes,1,overripe,1.8
+2025-01-03,ORG,Oranges,2,bruised,1.7
+2025-01-03,STR,Strawberries,3,damaged packaging,6.6
+2025-01-03,PEA,Pears,2,damaged packaging,2.0
+2025-01-03,BLU,Blueberries,3,bruised,7.5
+2025-01-03,LEM,Lemons,4,damaged packaging,2.0
+2025-01-04,APL,Apples,1,damaged packaging,1.1
+2025-01-04,ORG,Oranges,2,overripe,1.7
+2025-01-04,GRP,Grapes,1,damaged packaging,1.4
+2025-01-04,KWI,Kiwis,1,damaged packaging,0.75
+2025-01-04,LEM,Lemons,1,damaged packaging,0.5
+2025-01-06,APL,Apples,3,damaged packaging,3.3
+2025-01-06,MAN,Mangoes,2,bruised,3.6
+2025-01-06,ORG,Oranges,2,overripe,1.7
+2025-01-06,STR,Strawberries,2,damaged packaging,4.4
+2025-01-06,GRP,Grapes,1,damaged packaging,1.4
+2025-01-06,PEA,Pears,2,bruised,2.0
+2025-01-06,PIN,Pineapples,3,damaged packaging,4.95
+2025-01-06,AVO,Avocados,1,overripe,1.2
+2025-01-07,APL,Apples,1,overripe,1.1
+2025-01-07,BAN,Bananas,3,bruised,2.1
+2025-01-07,STR,Strawberries,3,damaged packaging,6.6
+2025-01-07,BLU,Blueberries,1,damaged packaging,2.5
+2025-01-07,AVO,Avocados,2,overripe,2.4
+2025-01-08,BAN,Bananas,2,overripe,1.4
+2025-01-08,MAN,Mangoes,2,overripe,3.6
+2025-01-08,STR,Strawberries,3,overripe,6.6
+2025-01-08,PEA,Pears,3,overripe,3.0
+2025-01-08,PIN,Pineapples,4,bruised,6.6
+2025-01-08,KWI,Kiwis,2,bruised,1.5
+2025-01-08,BLU,Blueberries,3,damaged packaging,7.5
+2025-01-08,AVO,Avocados,3,damaged packaging,3.6
+2025-01-09,GRP,Grapes,3,damaged packaging,4.2
+2025-01-09,PEA,Pears,1,damaged packaging,1.0
+2025-01-09,PIN,Pineapples,1,damaged packaging,1.65
+2025-01-09,LEM,Lemons,1,bruised,0.5
+2025-01-09,AVO,Avocados,3,overripe,3.6
+2025-01-10,APL,Apples,1,overripe,1.1
+2025-01-10,MAN,Mangoes,2,overripe,3.6
+2025-01-10,GRP,Grapes,2,damaged packaging,2.8
+2025-01-10,PEA,Pears,1,damaged packaging,1.0
+2025-01-11,MAN,Mangoes,1,bruised,1.8
+2025-01-11,STR,Strawberries,1,overripe,2.2
+2025-01-11,GRP,Grapes,1,overripe,1.4
+2025-01-11,PEA,Pears,2,damaged packaging,2.0
+2025-01-11,BLU,Blueberries,4,overripe,10.0
+2025-01-13,APL,Apples,1,overripe,1.1
+2025-01-13,BAN,Bananas,2,bruised,1.4
+2025-01-13,MAN,Mangoes,3,bruised,5.4
+2025-01-13,ORG,Oranges,1,overripe,0.85
+2025-01-13,STR,Strawberries,1,bruised,2.2
+2025-01-13,PEA,Pears,2,overripe,2.0
+2025-01-13,BLU,Blueberries,1,bruised,2.5
+2025-01-13,AVO,Avocados,4,overripe,4.8
+2025-01-14,BAN,Bananas,1,bruised,0.7
+2025-01-14,MAN,Mangoes,4,overripe,7.2
+2025-01-14,ORG,Oranges,1,bruised,0.85
+2025-01-14,GRP,Grapes,2,damaged packaging,2.8
+2025-01-14,PEA,Pears,1,damaged packaging,1.0
+2025-01-14,KWI,Kiwis,3,damaged packaging,2.25
+2025-01-14,BLU,Blueberries,2,damaged packaging,5.0
+2025-01-15,BAN,Bananas,1,overripe,0.7
+2025-01-15,STR,Strawberries,1,bruised,2.2
+2025-01-15,GRP,Grapes,1,damaged packaging,1.4
+2025-01-15,PEA,Pears,3,damaged packaging,3.0
+2025-01-15,KWI,Kiwis,1,overripe,0.75
+2025-01-15,BLU,Blueberries,1,damaged packaging,2.5
+2025-01-15,AVO,Avocados,4,damaged packaging,4.8
+2025-01-16,BAN,Bananas,1,bruised,0.7
+2025-01-16,STR,Strawberries,2,bruised,4.4
+2025-01-16,GRP,Grapes,2,damaged packaging,2.8
+2025-01-16,PIN,Pineapples,2,bruised,3.3
+2025-01-16,BLU,Blueberries,1,bruised,2.5
+2025-01-16,LEM,Lemons,3,damaged packaging,1.5
+2025-01-16,AVO,Avocados,3,bruised,3.6
+2025-01-17,APL,Apples,3,damaged packaging,3.3
+2025-01-17,MAN,Mangoes,2,bruised,3.6
+2025-01-17,LEM,Lemons,2,bruised,1.0
+2025-01-17,AVO,Avocados,1,damaged packaging,1.2
+2025-01-18,BAN,Bananas,3,bruised,2.1
+2025-01-18,GRP,Grapes,1,bruised,1.4
+2025-01-18,PEA,Pears,2,overripe,2.0
+2025-01-18,KWI,Kiwis,1,overripe,0.75
+2025-01-20,BLU,Blueberries,1,overripe,2.5
+2025-01-20,LEM,Lemons,3,overripe,1.5
+2025-01-21,MAN,Mangoes,1,overripe,1.8
+2025-01-21,STR,Strawberries,2,damaged packaging,4.4
+2025-01-21,KWI,Kiwis,2,overripe,1.5
+2025-01-22,APL,Apples,2,damaged packaging,2.2
+2025-01-22,GRP,Grapes,1,bruised,1.4
+2025-01-22,PIN,Pineapples,2,bruised,3.3
+2025-01-22,KWI,Kiwis,1,bruised,0.75
+2025-01-22,LEM,Lemons,1,bruised,0.5
+2025-01-23,KWI,Kiwis,1,damaged packaging,0.75
+2025-01-23,LEM,Lemons,1,damaged packaging,0.5
+2025-01-23,AVO,Avocados,4,overripe,4.8
+2025-01-24,MAN,Mangoes,1,damaged packaging,1.8
+2025-01-24,ORG,Oranges,1,overripe,0.85
+2025-01-24,STR,Strawberries,1,bruised,2.2
+2025-01-24,PEA,Pears,2,overripe,2.0
+2025-01-24,KWI,Kiwis,1,overripe,0.75
+2025-01-24,BLU,Blueberries,1,bruised,2.5
+2025-01-24,AVO,Avocados,1,damaged packaging,1.2
+2025-01-25,BAN,Bananas,1,bruised,0.7
+2025-01-25,STR,Strawberries,1,bruised,2.2
+2025-01-25,PIN,Pineapples,1,bruised,1.65
+2025-01-25,BLU,Blueberries,1,bruised,2.5
+2025-01-25,AVO,Avocados,2,damaged packaging,2.4
+2025-01-27,ORG,Oranges,2,bruised,1.7
+2025-01-27,STR,Strawberries,1,damaged packaging,2.2
+2025-01-27,PEA,Pears,1,bruised,1.0
+2025-01-27,KWI,Kiwis,1,damaged packaging,0.75
+2025-01-27,BLU,Blueberries,4,damaged packaging,10.0
+2025-01-27,LEM,Lemons,1,overripe,0.5
+2025-01-28,BAN,Bananas,3,bruised,2.1
+2025-01-28,ORG,Oranges,2,bruised,1.7
+2025-01-28,KWI,Kiwis,2,damaged packaging,1.5
+2025-01-29,APL,Apples,1,overripe,1.1
+2025-01-29,BAN,Bananas,3,bruised,2.1
+2025-01-29,ORG,Oranges,1,overripe,0.85
+2025-01-29,KWI,Kiwis,1,bruised,0.75
+2025-01-29,BLU,Blueberries,4,overripe,10.0
+2025-01-30,MAN,Mangoes,2,bruised,3.6
+2025-01-30,ORG,Oranges,1,damaged packaging,0.85
+2025-01-30,PIN,Pineapples,2,damaged packaging,3.3
+2025-01-30,LEM,Lemons,3,bruised,1.5
+2025-01-30,AVO,Avocados,2,damaged packaging,2.4
+2025-01-31,STR,Strawberries,2,overripe,4.4
+2025-01-31,GRP,Grapes,3,bruised,4.2
+2025-01-31,PEA,Pears,1,bruised,1.0
+2025-01-31,KWI,Kiwis,1,bruised,0.75
+2025-01-31,LEM,Lemons,1,bruised,0.5
+2025-01-31,AVO,Avocados,1,bruised,1.2
+2025-02-01,APL,Apples,1,overripe,1.1
+2025-02-01,BAN,Bananas,1,overripe,0.7
+2025-02-01,MAN,Mangoes,2,bruised,3.6
+2025-02-01,STR,Strawberries,1,overripe,2.2
+2025-02-01,PEA,Pears,1,overripe,1.0
+2025-02-01,PIN,Pineapples,1,overripe,1.65
+2025-02-01,BLU,Blueberries,3,bruised,7.5
+2025-02-01,LEM,Lemons,1,overripe,0.5
+2025-02-03,APL,Apples,1,bruised,1.1
+2025-02-03,ORG,Oranges,4,bruised,3.4
+2025-02-03,STR,Strawberries,1,bruised,2.2
+2025-02-03,GRP,Grapes,1,damaged packaging,1.4
+2025-02-03,PEA,Pears,1,bruised,1.0
+2025-02-03,PIN,Pineapples,1,bruised,1.65
+2025-02-03,KWI,Kiwis,1,damaged packaging,0.75
+2025-02-03,BLU,Blueberries,1,overripe,2.5
+2025-02-03,LEM,Lemons,1,overripe,0.5
+2025-02-04,APL,Apples,3,bruised,3.3
+2025-02-04,STR,Strawberries,2,bruised,4.4
+2025-02-04,GRP,Grapes,3,bruised,4.2
+2025-02-04,PIN,Pineapples,3,overripe,4.95
+2025-02-04,BLU,Blueberries,1,bruised,2.5
+2025-02-04,LEM,Lemons,2,bruised,1.0
+2025-02-05,APL,Apples,1,damaged packaging,1.1
+2025-02-05,BAN,Bananas,2,bruised,1.4
+2025-02-05,ORG,Oranges,3,bruised,2.55
+2025-02-05,PIN,Pineapples,4,overripe,6.6
+2025-02-05,LEM,Lemons,1,damaged packaging,0.5
+2025-02-05,AVO,Avocados,1,overripe,1.2
+2025-02-06,APL,Apples,2,damaged packaging,2.2
+2025-02-06,BAN,Bananas,3,overripe,2.1
+2025-02-06,STR,Strawberries,4,bruised,8.8
+2025-02-06,GRP,Grapes,4,bruised,5.6
+2025-02-06,PIN,Pineapples,3,bruised,4.95
+2025-02-06,BLU,Blueberries,4,overripe,10.0
+2025-02-06,LEM,Lemons,4,damaged packaging,2.0
+2025-02-06,AVO,Avocados,1,overripe,1.2
+2025-02-07,BAN,Bananas,2,overripe,1.4
+2025-02-07,MAN,Mangoes,2,overripe,3.6
+2025-02-07,STR,Strawberries,2,damaged packaging,4.4
+2025-02-07,LEM,Lemons,1,damaged packaging,0.5
+2025-02-08,BAN,Bananas,1,bruised,0.7
+2025-02-08,PEA,Pears,4,damaged packaging,4.0
+2025-02-08,KWI,Kiwis,1,damaged packaging,0.75
+2025-02-08,BLU,Blueberries,1,damaged packaging,2.5
+2025-02-10,STR,Strawberries,1,overripe,2.2
+2025-02-10,GRP,Grapes,3,damaged packaging,4.2
+2025-02-11,APL,Apples,1,damaged packaging,1.1
+2025-02-11,MAN,Mangoes,1,damaged packaging,1.8
+2025-02-11,ORG,Oranges,1,overripe,0.85
+2025-02-11,STR,Strawberries,1,damaged packaging,2.2
+2025-02-11,BLU,Blueberries,1,overripe,2.5
+2025-02-12,APL,Apples,2,damaged packaging,2.2
+2025-02-12,ORG,Oranges,1,bruised,0.85
+2025-02-12,PEA,Pears,1,damaged packaging,1.0
+2025-02-12,PIN,Pineapples,1,overripe,1.65
+2025-02-12,KWI,Kiwis,4,overripe,3.0
+2025-02-13,BAN,Bananas,1,damaged packaging,0.7
+2025-02-13,MAN,Mangoes,1,bruised,1.8
+2025-02-13,ORG,Oranges,2,overripe,1.7
+2025-02-13,GRP,Grapes,1,damaged packaging,1.4
+2025-02-13,PEA,Pears,1,bruised,1.0
+2025-02-13,PIN,Pineapples,3,overripe,4.95
+2025-02-14,ORG,Oranges,1,damaged packaging,0.85
+2025-02-14,PEA,Pears,1,damaged packaging,1.0
+2025-02-14,PIN,Pineapples,3,damaged packaging,4.95
+2025-02-14,KWI,Kiwis,1,damaged packaging,0.75
+2025-02-14,BLU,Blueberries,2,damaged packaging,5.0
+2025-02-14,LEM,Lemons,1,damaged packaging,0.5
+2025-02-15,APL,Apples,2,damaged packaging,2.2
+2025-02-15,STR,Strawberries,2,damaged packaging,4.4
+2025-02-15,PEA,Pears,1,overripe,1.0
+2025-02-15,PIN,Pineapples,1,overripe,1.65
+2025-02-15,LEM,Lemons,2,damaged packaging,1.0
+2025-02-15,AVO,Avocados,1,overripe,1.2
+2025-02-17,MAN,Mangoes,2,damaged packaging,3.6
+2025-02-17,ORG,Oranges,1,bruised,0.85
+2025-02-17,PEA,Pears,1,overripe,1.0
+2025-02-17,PIN,Pineapples,1,bruised,1.65
+2025-02-17,KWI,Kiwis,1,bruised,0.75
+2025-02-17,BLU,Blueberries,3,bruised,7.5
+2025-02-17,LEM,Lemons,2,overripe,1.0
+2025-02-17,AVO,Avocados,3,damaged packaging,3.6
+2025-02-18,APL,Apples,1,damaged packaging,1.1
+2025-02-18,GRP,Grapes,2,overripe,2.8
+2025-02-18,KWI,Kiwis,2,damaged packaging,1.5
+2025-02-18,LEM,Lemons,2,damaged packaging,1.0
+2025-02-19,APL,Apples,1,bruised,1.1
+2025-02-19,BAN,Bananas,1,bruised,0.7
+2025-02-19,ORG,Oranges,3,overripe,2.55
+2025-02-19,STR,Strawberries,1,bruised,2.2
+2025-02-19,BLU,Blueberries,2,damaged packaging,5.0
+2025-02-19,LEM,Lemons,1,damaged packaging,0.5
+2025-02-20,APL,Apples,3,overripe,3.3
+2025-02-20,BAN,Bananas,3,bruised,2.1
+2025-02-20,GRP,Grapes,3,damaged packaging,4.2
+2025-02-20,PEA,Pears,2,overripe,2.0
+2025-02-20,PIN,Pineapples,2,damaged packaging,3.3
+2025-02-20,KWI,Kiwis,1,bruised,0.75
+2025-02-20,BLU,Blueberries,3,overripe,7.5
+2025-02-21,BAN,Bananas,2,bruised,1.4
+2025-02-21,MAN,Mangoes,2,bruised,3.6
+2025-02-21,ORG,Oranges,1,damaged packaging,0.85
+2025-02-21,GRP,Grapes,1,overripe,1.4
+2025-02-21,PEA,Pears,1,overripe,1.0
+2025-02-21,LEM,Lemons,2,overripe,1.0
+2025-02-21,AVO,Avocados,4,bruised,4.8
+2025-02-22,BAN,Bananas,1,damaged packaging,0.7
+2025-02-22,STR,Strawberries,2,bruised,4.4
+2025-02-22,PEA,Pears,1,bruised,1.0
+2025-02-22,AVO,Avocados,1,bruised,1.2
+2025-02-24,APL,Apples,1,bruised,1.1
+2025-02-24,LEM,Lemons,1,bruised,0.5
+2025-02-24,AVO,Avocados,2,bruised,2.4
+2025-02-25,APL,Apples,1,overripe,1.1
+2025-02-25,BAN,Bananas,1,bruised,0.7
+2025-02-25,MAN,Mangoes,1,overripe,1.8
+2025-02-25,STR,Strawberries,2,overripe,4.4
+2025-02-25,GRP,Grapes,2,bruised,2.8
+2025-02-25,PEA,Pears,3,overripe,3.0
+2025-02-25,PIN,Pineapples,1,bruised,1.65
+2025-02-25,KWI,Kiwis,1,damaged packaging,0.75
+2025-02-26,APL,Apples,3,overripe,3.3
+2025-02-26,BAN,Bananas,1,overripe,0.7
+2025-02-26,MAN,Mangoes,3,bruised,5.4
+2025-02-26,ORG,Oranges,2,bruised,1.7
+2025-02-26,GRP,Grapes,1,bruised,1.4
+2025-02-26,PIN,Pineapples,3,overripe,4.95
+2025-02-26,KWI,Kiwis,3,damaged packaging,2.25
+2025-02-26,LEM,Lemons,4,overripe,2.0
+2025-02-27,APL,Apples,2,damaged packaging,2.2
+2025-02-27,BAN,Bananas,2,overripe,1.4
+2025-02-27,MAN,Mangoes,4,damaged packaging,7.2
+2025-02-27,STR,Strawberries,1,overripe,2.2
+2025-02-27,GRP,Grapes,1,bruised,1.4
+2025-02-27,PIN,Pineapples,2,damaged packaging,3.3
+2025-02-27,KWI,Kiwis,3,bruised,2.25
+2025-02-27,BLU,Blueberries,2,overripe,5.0
+2025-02-28,BAN,Bananas,1,damaged packaging,0.7
+2025-02-28,MAN,Mangoes,1,damaged packaging,1.8
+2025-02-28,ORG,Oranges,1,damaged packaging,0.85
+2025-02-28,STR,Strawberries,1,damaged packaging,2.2
+2025-02-28,GRP,Grapes,3,overripe,4.2
+2025-02-28,PIN,Pineapples,1,damaged packaging,1.65
+2025-02-28,BLU,Blueberries,1,overripe,2.5
+2025-02-28,LEM,Lemons,1,bruised,0.5
+2025-03-01,LEM,Lemons,1,overripe,0.5
+2025-03-01,AVO,Avocados,3,damaged packaging,3.6
+2025-03-03,APL,Apples,4,bruised,4.4
+2025-03-03,GRP,Grapes,1,bruised,1.4
+2025-03-03,KWI,Kiwis,1,bruised,0.75
+2025-03-03,LEM,Lemons,1,overripe,0.5
+2025-03-03,AVO,Avocados,1,bruised,1.2
+2025-03-04,APL,Apples,1,overripe,1.1
+2025-03-04,ORG,Oranges,1,overripe,0.85
+2025-03-04,PEA,Pears,2,damaged packaging,2.0
+2025-03-04,PIN,Pineapples,1,damaged packaging,1.65
+2025-03-04,KWI,Kiwis,3,bruised,2.25
+2025-03-04,BLU,Blueberries,4,damaged packaging,10.0
+2025-03-04,LEM,Lemons,1,damaged packaging,0.5
+2025-03-05,APL,Apples,2,bruised,2.2
+2025-03-05,BAN,Bananas,4,damaged packaging,2.8
+2025-03-05,MAN,Mangoes,1,damaged packaging,1.8
+2025-03-05,STR,Strawberries,2,damaged packaging,4.4
+2025-03-05,GRP,Grapes,1,damaged packaging,1.4
+2025-03-05,PEA,Pears,1,damaged packaging,1.0
+2025-03-05,KWI,Kiwis,1,damaged packaging,0.75
+2025-03-05,AVO,Avocados,2,bruised,2.4
+2025-03-06,APL,Apples,1,damaged packaging,1.1
+2025-03-06,GRP,Grapes,1,damaged packaging,1.4
+2025-03-06,KWI,Kiwis,4,bruised,3.0
+2025-03-06,BLU,Blueberries,1,bruised,2.5
+2025-03-06,LEM,Lemons,1,damaged packaging,0.5
+2025-03-07,APL,Apples,4,bruised,4.4
+2025-03-07,ORG,Oranges,1,damaged packaging,0.85
+2025-03-07,GRP,Grapes,3,damaged packaging,4.2
+2025-03-07,KWI,Kiwis,3,overripe,2.25
+2025-03-07,LEM,Lemons,1,overripe,0.5
+2025-03-08,APL,Apples,3,bruised,3.3
+2025-03-08,ORG,Oranges,1,damaged packaging,0.85
+2025-03-08,PEA,Pears,2,overripe,2.0
+2025-03-08,KWI,Kiwis,1,bruised,0.75
+2025-03-08,BLU,Blueberries,1,overripe,2.5
+2025-03-08,LEM,Lemons,4,damaged packaging,2.0
+2025-03-08,AVO,Avocados,3,damaged packaging,3.6
+2025-03-10,ORG,Oranges,1,overripe,0.85
+2025-03-10,STR,Strawberries,1,bruised,2.2
+2025-03-10,PEA,Pears,4,bruised,4.0
+2025-03-10,AVO,Avocados,1,overripe,1.2
+2025-03-11,BAN,Bananas,3,damaged packaging,2.1
+2025-03-11,MAN,Mangoes,1,damaged packaging,1.8
+2025-03-11,PEA,Pears,1,bruised,1.0
+2025-03-11,PIN,Pineapples,3,damaged packaging,4.95
+2025-03-11,KWI,Kiwis,2,overripe,1.5
+2025-03-11,BLU,Blueberries,1,overripe,2.5
+2025-03-11,AVO,Avocados,1,overripe,1.2
+2025-03-12,MAN,Mangoes,1,bruised,1.8
+2025-03-12,PEA,Pears,2,damaged packaging,2.0
+2025-03-12,PIN,Pineapples,2,damaged packaging,3.3
+2025-03-12,LEM,Lemons,3,bruised,1.5
+2025-03-13,APL,Apples,4,damaged packaging,4.4
+2025-03-13,STR,Strawberries,3,damaged packaging,6.6
+2025-03-13,PIN,Pineapples,4,overripe,6.6
+2025-03-13,KWI,Kiwis,4,bruised,3.0
+2025-03-14,BAN,Bananas,1,overripe,0.7
+2025-03-14,ORG,Oranges,1,overripe,0.85
+2025-03-14,KWI,Kiwis,1,damaged packaging,0.75
+2025-03-14,LEM,Lemons,4,damaged packaging,2.0
+2025-03-15,APL,Apples,1,overripe,1.1
+2025-03-15,MAN,Mangoes,4,damaged packaging,7.2
+2025-03-15,ORG,Oranges,2,bruised,1.7
+2025-03-15,GRP,Grapes,1,bruised,1.4
+2025-03-15,PIN,Pineapples,2,overripe,3.3
+2025-03-15,KWI,Kiwis,3,damaged packaging,2.25
+2025-03-17,BAN,Bananas,2,overripe,1.4
+2025-03-17,MAN,Mangoes,1,damaged packaging,1.8
+2025-03-17,ORG,Oranges,2,bruised,1.7
+2025-03-17,KWI,Kiwis,2,bruised,1.5
+2025-03-17,BLU,Blueberries,1,bruised,2.5
+2025-03-17,LEM,Lemons,2,bruised,1.0
+2025-03-17,AVO,Avocados,1,bruised,1.2
+2025-03-18,ORG,Oranges,1,bruised,0.85
+2025-03-18,GRP,Grapes,1,overripe,1.4
+2025-03-18,PEA,Pears,1,damaged packaging,1.0
+2025-03-18,PIN,Pineapples,1,bruised,1.65
+2025-03-18,KWI,Kiwis,1,bruised,0.75
+2025-03-18,BLU,Blueberries,1,bruised,2.5
+2025-03-18,LEM,Lemons,1,bruised,0.5
+2025-03-18,AVO,Avocados,2,damaged packaging,2.4
+2025-03-19,APL,Apples,2,damaged packaging,2.2
+2025-03-19,STR,Strawberries,1,damaged packaging,2.2
+2025-03-19,GRP,Grapes,1,overripe,1.4
+2025-03-19,PEA,Pears,1,overripe,1.0
+2025-03-19,PIN,Pineapples,1,damaged packaging,1.65
+2025-03-19,KWI,Kiwis,2,damaged packaging,1.5
+2025-03-19,BLU,Blueberries,3,overripe,7.5
+2025-03-19,AVO,Avocados,1,bruised,1.2
+2025-03-20,ORG,Oranges,2,damaged packaging,1.7
+2025-03-20,STR,Strawberries,1,overripe,2.2
+2025-03-20,PEA,Pears,1,damaged packaging,1.0
+2025-03-20,KWI,Kiwis,2,damaged packaging,1.5
+2025-03-20,BLU,Blueberries,3,overripe,7.5
+2025-03-20,LEM,Lemons,1,damaged packaging,0.5
+2025-03-21,APL,Apples,3,damaged packaging,3.3
+2025-03-21,STR,Strawberries,2,overripe,4.4
+2025-03-21,GRP,Grapes,1,damaged packaging,1.4
+2025-03-21,PIN,Pineapples,1,overripe,1.65
+2025-03-21,KWI,Kiwis,1,overripe,0.75
+2025-03-21,BLU,Blueberries,4,overripe,10.0
+2025-03-21,AVO,Avocados,1,damaged packaging,1.2
+2025-03-22,APL,Apples,1,bruised,1.1
+2025-03-22,BAN,Bananas,1,bruised,0.7
+2025-03-22,MAN,Mangoes,1,bruised,1.8
+2025-03-22,GRP,Grapes,2,overripe,2.8
+2025-03-22,PIN,Pineapples,3,bruised,4.95
+2025-03-22,AVO,Avocados,1,damaged packaging,1.2
+2025-03-24,MAN,Mangoes,3,overripe,5.4
+2025-03-24,ORG,Oranges,1,overripe,0.85
+2025-03-24,PIN,Pineapples,3,damaged packaging,4.95
+2025-03-24,KWI,Kiwis,1,bruised,0.75
+2025-03-24,LEM,Lemons,1,bruised,0.5
+2025-03-24,AVO,Avocados,2,damaged packaging,2.4
+2025-03-25,ORG,Oranges,1,damaged packaging,0.85
+2025-03-25,STR,Strawberries,1,overripe,2.2
+2025-03-25,LEM,Lemons,3,overripe,1.5
+2025-03-26,APL,Apples,1,overripe,1.1
+2025-03-26,ORG,Oranges,4,bruised,3.4
+2025-03-26,GRP,Grapes,1,damaged packaging,1.4
+2025-03-26,PIN,Pineapples,1,overripe,1.65
+2025-03-26,KWI,Kiwis,1,bruised,0.75
+2025-03-26,AVO,Avocados,3,bruised,3.6
+2025-03-27,BAN,Bananas,1,damaged packaging,0.7
+2025-03-27,ORG,Oranges,2,damaged packaging,1.7
+2025-03-27,PIN,Pineapples,1,bruised,1.65
+2025-03-28,BAN,Bananas,1,overripe,0.7
+2025-03-28,STR,Strawberries,2,damaged packaging,4.4
+2025-03-28,GRP,Grapes,1,bruised,1.4
+2025-03-28,PEA,Pears,1,overripe,1.0
+2025-03-28,BLU,Blueberries,2,overripe,5.0
+2025-03-28,LEM,Lemons,2,damaged packaging,1.0
+2025-03-29,STR,Strawberries,2,damaged packaging,4.4
+2025-03-29,GRP,Grapes,1,overripe,1.4
+2025-03-29,BLU,Blueberries,1,bruised,2.5
+2025-03-29,AVO,Avocados,3,overripe,3.6
+2025-03-31,BAN,Bananas,2,overripe,1.4
+2025-03-31,MAN,Mangoes,2,damaged packaging,3.6
+2025-03-31,STR,Strawberries,1,bruised,2.2
+2025-03-31,BLU,Blueberries,1,damaged packaging,2.5
+2025-03-31,AVO,Avocados,4,damaged packaging,4.8
+2025-04-01,APL,Apples,1,damaged packaging,1.1
+2025-04-01,MAN,Mangoes,1,overripe,1.8
+2025-04-01,ORG,Oranges,4,bruised,3.4
+2025-04-01,STR,Strawberries,2,bruised,4.4
+2025-04-01,PIN,Pineapples,1,damaged packaging,1.65
+2025-04-01,BLU,Blueberries,2,overripe,5.0
+2025-04-01,LEM,Lemons,1,damaged packaging,0.5
+2025-04-02,MAN,Mangoes,2,overripe,3.6
+2025-04-02,ORG,Oranges,3,bruised,2.55
+2025-04-02,GRP,Grapes,1,overripe,1.4
+2025-04-02,BLU,Blueberries,1,bruised,2.5
+2025-04-03,APL,Apples,2,damaged packaging,2.2
+2025-04-03,BAN,Bananas,4,damaged packaging,2.8
+2025-04-03,MAN,Mangoes,2,damaged packaging,3.6
+2025-04-03,ORG,Oranges,3,overripe,2.55
+2025-04-03,STR,Strawberries,2,bruised,4.4
+2025-04-03,PEA,Pears,2,damaged packaging,2.0
+2025-04-03,BLU,Blueberries,2,bruised,5.0
+2025-04-03,LEM,Lemons,3,overripe,1.5
+2025-04-03,AVO,Avocados,2,bruised,2.4
+2025-04-04,MAN,Mangoes,1,overripe,1.8
+2025-04-04,ORG,Oranges,1,overripe,0.85
+2025-04-04,PIN,Pineapples,1,overripe,1.65
+2025-04-04,LEM,Lemons,1,overripe,0.5
+2025-04-05,APL,Apples,1,overripe,1.1
+2025-04-05,BAN,Bananas,1,overripe,0.7
+2025-04-05,STR,Strawberries,1,overripe,2.2
+2025-04-05,GRP,Grapes,1,bruised,1.4
+2025-04-05,PIN,Pineapples,1,damaged packaging,1.65
+2025-04-05,KWI,Kiwis,3,bruised,2.25
+2025-04-05,AVO,Avocados,1,bruised,1.2
+2025-04-07,APL,Apples,2,bruised,2.2
+2025-04-07,MAN,Mangoes,1,overripe,1.8
+2025-04-07,GRP,Grapes,3,overripe,4.2
+2025-04-07,PEA,Pears,1,bruised,1.0
+2025-04-07,KWI,Kiwis,4,overripe,3.0
+2025-04-08,BAN,Bananas,1,damaged packaging,0.7
+2025-04-08,STR,Strawberries,2,damaged packaging,4.4
+2025-04-08,GRP,Grapes,1,damaged packaging,1.4
+2025-04-08,PIN,Pineapples,1,overripe,1.65
+2025-04-08,AVO,Avocados,1,overripe,1.2
+2025-04-09,MAN,Mangoes,1,overripe,1.8
+2025-04-09,ORG,Oranges,1,bruised,0.85
+2025-04-09,PIN,Pineapples,1,bruised,1.65
+2025-04-09,LEM,Lemons,3,damaged packaging,1.5
+2025-04-10,MAN,Mangoes,3,overripe,5.4
+2025-04-10,ORG,Oranges,1,damaged packaging,0.85
+2025-04-10,GRP,Grapes,2,damaged packaging,2.8
+2025-04-10,KWI,Kiwis,4,bruised,3.0
+2025-04-11,APL,Apples,1,overripe,1.1
+2025-04-11,BAN,Bananas,4,overripe,2.8
+2025-04-11,GRP,Grapes,1,damaged packaging,1.4
+2025-04-11,PEA,Pears,3,overripe,3.0
+2025-04-11,AVO,Avocados,1,overripe,1.2
+2025-04-12,APL,Apples,2,bruised,2.2
+2025-04-12,PIN,Pineapples,2,bruised,3.3
+2025-04-14,APL,Apples,2,bruised,2.2
+2025-04-14,BAN,Bananas,2,overripe,1.4
+2025-04-14,MAN,Mangoes,1,damaged packaging,1.8
+2025-04-14,STR,Strawberries,1,bruised,2.2
+2025-04-14,GRP,Grapes,1,bruised,1.4
+2025-04-14,PIN,Pineapples,1,overripe,1.65
+2025-04-14,KWI,Kiwis,2,overripe,1.5
+2025-04-14,BLU,Blueberries,2,overripe,5.0
+2025-04-14,LEM,Lemons,2,bruised,1.0
+2025-04-14,AVO,Avocados,1,damaged packaging,1.2
+2025-04-15,MAN,Mangoes,2,overripe,3.6
+2025-04-15,ORG,Oranges,2,bruised,1.7
+2025-04-15,STR,Strawberries,3,overripe,6.6
+2025-04-15,GRP,Grapes,1,damaged packaging,1.4
+2025-04-15,BLU,Blueberries,2,overripe,5.0
+2025-04-15,LEM,Lemons,1,damaged packaging,0.5
+2025-04-16,BAN,Bananas,2,damaged packaging,1.4
+2025-04-16,MAN,Mangoes,2,overripe,3.6
+2025-04-17,APL,Apples,2,damaged packaging,2.2
+2025-04-17,BAN,Bananas,4,overripe,2.8
+2025-04-17,MAN,Mangoes,4,bruised,7.2
+2025-04-17,ORG,Oranges,2,overripe,1.7
+2025-04-17,GRP,Grapes,3,overripe,4.2
+2025-04-17,PEA,Pears,3,damaged packaging,3.0
+2025-04-17,PIN,Pineapples,3,bruised,4.95
+2025-04-17,AVO,Avocados,1,overripe,1.2
+2025-04-18,APL,Apples,2,bruised,2.2
+2025-04-18,BAN,Bananas,1,overripe,0.7
+2025-04-18,PIN,Pineapples,2,bruised,3.3
+2025-04-18,BLU,Blueberries,1,damaged packaging,2.5
+2025-04-19,BAN,Bananas,1,damaged packaging,0.7
+2025-04-19,MAN,Mangoes,4,damaged packaging,7.2
+2025-04-19,ORG,Oranges,1,damaged packaging,0.85
+2025-04-19,PIN,Pineapples,2,overripe,3.3
+2025-04-19,KWI,Kiwis,1,bruised,0.75
+2025-04-21,APL,Apples,2,bruised,2.2
+2025-04-21,MAN,Mangoes,1,damaged packaging,1.8
+2025-04-21,PIN,Pineapples,4,bruised,6.6
+2025-04-21,KWI,Kiwis,1,bruised,0.75
+2025-04-21,LEM,Lemons,1,bruised,0.5
+2025-04-22,APL,Apples,1,damaged packaging,1.1
+2025-04-22,BAN,Bananas,1,bruised,0.7
+2025-04-22,ORG,Oranges,2,overripe,1.7
+2025-04-22,GRP,Grapes,2,damaged packaging,2.8
+2025-04-22,PIN,Pineapples,1,overripe,1.65
+2025-04-23,STR,Strawberries,2,bruised,4.4
+2025-04-23,GRP,Grapes,1,damaged packaging,1.4
+2025-04-23,PIN,Pineapples,3,damaged packaging,4.95
+2025-04-23,LEM,Lemons,2,overripe,1.0
+2025-04-23,AVO,Avocados,3,damaged packaging,3.6
+2025-04-24,MAN,Mangoes,2,overripe,3.6
+2025-04-24,STR,Strawberries,4,damaged packaging,8.8
+2025-04-24,PIN,Pineapples,1,bruised,1.65
+2025-04-24,KWI,Kiwis,2,damaged packaging,1.5
+2025-04-24,BLU,Blueberries,2,overripe,5.0
+2025-04-24,AVO,Avocados,3,overripe,3.6
+2025-04-25,APL,Apples,2,damaged packaging,2.2
+2025-04-25,MAN,Mangoes,1,bruised,1.8
+2025-04-25,STR,Strawberries,1,damaged packaging,2.2
+2025-04-25,PEA,Pears,1,overripe,1.0
+2025-04-25,PIN,Pineapples,3,bruised,4.95
+2025-04-25,KWI,Kiwis,2,bruised,1.5
+2025-04-25,BLU,Blueberries,2,damaged packaging,5.0
+2025-04-25,LEM,Lemons,2,overripe,1.0
+2025-04-25,AVO,Avocados,1,bruised,1.2
+2025-04-26,APL,Apples,1,overripe,1.1
+2025-04-26,BAN,Bananas,3,bruised,2.1
+2025-04-26,GRP,Grapes,2,damaged packaging,2.8
+2025-04-26,KWI,Kiwis,3,damaged packaging,2.25
+2025-04-26,AVO,Avocados,1,overripe,1.2
+2025-04-28,APL,Apples,3,bruised,3.3
+2025-04-28,STR,Strawberries,1,overripe,2.2
+2025-04-28,GRP,Grapes,1,bruised,1.4
+2025-04-28,PIN,Pineapples,1,bruised,1.65
+2025-04-28,KWI,Kiwis,1,overripe,0.75
+2025-04-28,BLU,Blueberries,2,bruised,5.0
+2025-04-28,LEM,Lemons,1,bruised,0.5
+2025-04-29,BAN,Bananas,1,overripe,0.7
+2025-04-29,MAN,Mangoes,1,bruised,1.8
+2025-04-29,ORG,Oranges,1,bruised,0.85
+2025-04-29,GRP,Grapes,4,damaged packaging,5.6
+2025-04-29,PIN,Pineapples,3,damaged packaging,4.95
+2025-04-29,BLU,Blueberries,3,damaged packaging,7.5
+2025-04-30,BAN,Bananas,1,damaged packaging,0.7
+2025-04-30,MAN,Mangoes,1,damaged packaging,1.8
+2025-04-30,ORG,Oranges,2,damaged packaging,1.7
+2025-04-30,GRP,Grapes,2,overripe,2.8
+2025-04-30,PIN,Pineapples,2,overripe,3.3
+2025-04-30,KWI,Kiwis,1,overripe,0.75
+2025-04-30,BLU,Blueberries,1,bruised,2.5
+2025-04-30,LEM,Lemons,2,bruised,1.0
+2025-05-01,APL,Apples,2,damaged packaging,2.2
+2025-05-01,BAN,Bananas,1,bruised,0.7
+2025-05-01,PEA,Pears,3,bruised,3.0
+2025-05-01,PIN,Pineapples,1,overripe,1.65
+2025-05-01,KWI,Kiwis,1,overripe,0.75
+2025-05-01,LEM,Lemons,2,damaged packaging,1.0
+2025-05-01,AVO,Avocados,2,overripe,2.4
+2025-05-02,MAN,Mangoes,3,bruised,5.4
+2025-05-02,GRP,Grapes,1,bruised,1.4
+2025-05-02,BLU,Blueberries,1,damaged packaging,2.5
+2025-05-03,APL,Apples,1,overripe,1.1
+2025-05-03,BAN,Bananas,3,bruised,2.1
+2025-05-03,PIN,Pineapples,1,overripe,1.65
+2025-05-03,KWI,Kiwis,2,overripe,1.5
+2025-05-05,APL,Apples,1,damaged packaging,1.1
+2025-05-05,BAN,Bananas,1,overripe,0.7
+2025-05-05,KWI,Kiwis,3,damaged packaging,2.25
+2025-05-05,LEM,Lemons,3,damaged packaging,1.5
+2025-05-05,AVO,Avocados,3,damaged packaging,3.6
+2025-05-06,APL,Apples,3,damaged packaging,3.3
+2025-05-06,BAN,Bananas,4,bruised,2.8
+2025-05-06,ORG,Oranges,2,bruised,1.7
+2025-05-06,STR,Strawberries,1,bruised,2.2
+2025-05-06,PIN,Pineapples,1,overripe,1.65
+2025-05-06,KWI,Kiwis,3,damaged packaging,2.25
+2025-05-06,BLU,Blueberries,1,bruised,2.5
+2025-05-07,APL,Apples,1,overripe,1.1
+2025-05-07,BAN,Bananas,1,overripe,0.7
+2025-05-07,MAN,Mangoes,3,bruised,5.4
+2025-05-07,GRP,Grapes,1,damaged packaging,1.4
+2025-05-07,KWI,Kiwis,1,damaged packaging,0.75
+2025-05-07,BLU,Blueberries,1,damaged packaging,2.5
+2025-05-07,LEM,Lemons,4,damaged packaging,2.0
+2025-05-08,ORG,Oranges,1,damaged packaging,0.85
+2025-05-08,STR,Strawberries,1,overripe,2.2
+2025-05-08,GRP,Grapes,2,overripe,2.8
+2025-05-08,PIN,Pineapples,4,overripe,6.6
+2025-05-08,KWI,Kiwis,1,bruised,0.75
+2025-05-08,LEM,Lemons,1,overripe,0.5
+2025-05-09,MAN,Mangoes,1,damaged packaging,1.8
+2025-05-09,STR,Strawberries,1,bruised,2.2
+2025-05-09,PIN,Pineapples,1,damaged packaging,1.65
+2025-05-09,KWI,Kiwis,1,overripe,0.75
+2025-05-09,LEM,Lemons,2,bruised,1.0
+2025-05-10,BAN,Bananas,1,bruised,0.7
+2025-05-10,MAN,Mangoes,1,overripe,1.8
+2025-05-10,ORG,Oranges,2,overripe,1.7
+2025-05-10,STR,Strawberries,2,damaged packaging,4.4
+2025-05-10,PEA,Pears,2,damaged packaging,2.0
+2025-05-10,LEM,Lemons,1,bruised,0.5
+2025-05-12,BAN,Bananas,1,damaged packaging,0.7
+2025-05-12,ORG,Oranges,1,bruised,0.85
+2025-05-12,STR,Strawberries,4,bruised,8.8
+2025-05-12,PEA,Pears,1,bruised,1.0
+2025-05-12,KWI,Kiwis,1,overripe,0.75
+2025-05-12,BLU,Blueberries,1,damaged packaging,2.5
+2025-05-12,AVO,Avocados,3,damaged packaging,3.6
+2025-05-13,APL,Apples,1,bruised,1.1
+2025-05-13,BAN,Bananas,1,damaged packaging,0.7
+2025-05-13,MAN,Mangoes,1,damaged packaging,1.8
+2025-05-13,ORG,Oranges,2,overripe,1.7
+2025-05-13,PEA,Pears,2,bruised,2.0
+2025-05-13,AVO,Avocados,1,overripe,1.2
+2025-05-14,ORG,Oranges,4,bruised,3.4
+2025-05-14,STR,Strawberries,1,overripe,2.2
+2025-05-14,GRP,Grapes,2,bruised,2.8
+2025-05-14,PEA,Pears,3,damaged packaging,3.0
+2025-05-14,KWI,Kiwis,1,overripe,0.75
+2025-05-14,BLU,Blueberries,3,bruised,7.5
+2025-05-14,LEM,Lemons,1,overripe,0.5
+2025-05-14,AVO,Avocados,1,overripe,1.2
+2025-05-15,APL,Apples,1,overripe,1.1
+2025-05-15,BAN,Bananas,2,overripe,1.4
+2025-05-15,MAN,Mangoes,1,overripe,1.8
+2025-05-15,ORG,Oranges,3,damaged packaging,2.55
+2025-05-15,STR,Strawberries,3,damaged packaging,6.6
+2025-05-15,GRP,Grapes,2,damaged packaging,2.8
+2025-05-15,PEA,Pears,1,damaged packaging,1.0
+2025-05-15,LEM,Lemons,1,bruised,0.5
+2025-05-15,AVO,Avocados,3,damaged packaging,3.6
+2025-05-16,APL,Apples,4,overripe,4.4
+2025-05-16,MAN,Mangoes,1,damaged packaging,1.8
+2025-05-16,ORG,Oranges,1,bruised,0.85
+2025-05-16,STR,Strawberries,2,overripe,4.4
+2025-05-16,PEA,Pears,3,bruised,3.0
+2025-05-17,APL,Apples,1,overripe,1.1
+2025-05-17,MAN,Mangoes,2,damaged packaging,3.6
+2025-05-17,ORG,Oranges,1,overripe,0.85
+2025-05-17,KWI,Kiwis,3,bruised,2.25
+2025-05-17,BLU,Blueberries,1,bruised,2.5
+2025-05-17,AVO,Avocados,1,damaged packaging,1.2
+2025-05-19,APL,Apples,1,overripe,1.1
+2025-05-19,MAN,Mangoes,1,bruised,1.8
+2025-05-19,KWI,Kiwis,1,overripe,0.75
+2025-05-19,LEM,Lemons,1,damaged packaging,0.5
+2025-05-20,BAN,Bananas,1,damaged packaging,0.7
+2025-05-20,STR,Strawberries,1,damaged packaging,2.2
+2025-05-20,GRP,Grapes,2,damaged packaging,2.8
+2025-05-20,KWI,Kiwis,1,bruised,0.75
+2025-05-21,APL,Apples,1,bruised,1.1
+2025-05-21,BAN,Bananas,1,bruised,0.7
+2025-05-21,MAN,Mangoes,3,overripe,5.4
+2025-05-21,ORG,Oranges,2,damaged packaging,1.7
+2025-05-21,GRP,Grapes,1,bruised,1.4
+2025-05-21,PIN,Pineapples,1,overripe,1.65
+2025-05-21,BLU,Blueberries,2,damaged packaging,5.0
+2025-05-21,LEM,Lemons,2,overripe,1.0
+2025-05-21,AVO,Avocados,3,damaged packaging,3.6
+2025-05-22,APL,Apples,1,damaged packaging,1.1
+2025-05-22,MAN,Mangoes,4,bruised,7.2
+2025-05-22,STR,Strawberries,3,damaged packaging,6.6
+2025-05-22,PIN,Pineapples,1,damaged packaging,1.65
+2025-05-22,BLU,Blueberries,1,damaged packaging,2.5
+2025-05-22,LEM,Lemons,3,damaged packaging,1.5
+2025-05-23,ORG,Oranges,2,overripe,1.7
+2025-05-23,STR,Strawberries,1,damaged packaging,2.2
+2025-05-23,GRP,Grapes,2,bruised,2.8
+2025-05-23,PEA,Pears,1,bruised,1.0
+2025-05-23,KWI,Kiwis,2,damaged packaging,1.5
+2025-05-23,BLU,Blueberries,4,overripe,10.0
+2025-05-23,LEM,Lemons,2,bruised,1.0
+2025-05-24,ORG,Oranges,1,overripe,0.85
+2025-05-24,PIN,Pineapples,2,overripe,3.3
+2025-05-24,LEM,Lemons,3,overripe,1.5
+2025-05-26,APL,Apples,1,overripe,1.1
+2025-05-26,BAN,Bananas,2,overripe,1.4
+2025-05-26,MAN,Mangoes,1,bruised,1.8
+2025-05-26,ORG,Oranges,2,damaged packaging,1.7
+2025-05-26,STR,Strawberries,2,overripe,4.4
+2025-05-26,BLU,Blueberries,3,damaged packaging,7.5
+2025-05-26,LEM,Lemons,1,overripe,0.5
+2025-05-26,AVO,Avocados,1,damaged packaging,1.2
+2025-05-27,BAN,Bananas,1,overripe,0.7
+2025-05-27,MAN,Mangoes,2,damaged packaging,3.6
+2025-05-27,STR,Strawberries,1,bruised,2.2
+2025-05-27,GRP,Grapes,2,bruised,2.8
+2025-05-27,PEA,Pears,1,damaged packaging,1.0
+2025-05-27,KWI,Kiwis,1,overripe,0.75
+2025-05-27,BLU,Blueberries,2,bruised,5.0
+2025-05-28,APL,Apples,1,damaged packaging,1.1
+2025-05-28,MAN,Mangoes,1,bruised,1.8
+2025-05-28,STR,Strawberries,4,bruised,8.8
+2025-05-28,PIN,Pineapples,1,bruised,1.65
+2025-05-28,KWI,Kiwis,1,damaged packaging,0.75
+2025-05-29,BAN,Bananas,1,damaged packaging,0.7
+2025-05-29,STR,Strawberries,3,bruised,6.6
+2025-05-29,PEA,Pears,1,bruised,1.0
+2025-05-29,KWI,Kiwis,2,overripe,1.5
+2025-05-29,LEM,Lemons,3,damaged packaging,1.5
+2025-05-30,MAN,Mangoes,4,overripe,7.2
+2025-05-30,ORG,Oranges,2,bruised,1.7
+2025-05-30,PEA,Pears,3,damaged packaging,3.0
+2025-05-30,PIN,Pineapples,2,damaged packaging,3.3
+2025-05-30,KWI,Kiwis,3,bruised,2.25
+2025-05-30,BLU,Blueberries,3,bruised,7.5
+2025-05-30,LEM,Lemons,1,bruised,0.5
+2025-05-31,APL,Apples,3,damaged packaging,3.3
+2025-05-31,BAN,Bananas,2,damaged packaging,1.4
+2025-05-31,MAN,Mangoes,3,damaged packaging,5.4
+2025-05-31,ORG,Oranges,1,bruised,0.85
+2025-05-31,STR,Strawberries,1,overripe,2.2
+2025-05-31,PEA,Pears,4,damaged packaging,4.0
+2025-05-31,PIN,Pineapples,2,bruised,3.3
+2025-05-31,BLU,Blueberries,2,overripe,5.0
+2025-05-31,LEM,Lemons,1,bruised,0.5
+2025-05-31,AVO,Avocados,3,bruised,3.6
+2025-06-02,BAN,Bananas,3,bruised,2.1
+2025-06-02,MAN,Mangoes,1,bruised,1.8
+2025-06-02,ORG,Oranges,2,damaged packaging,1.7
+2025-06-02,STR,Strawberries,2,overripe,4.4
+2025-06-02,GRP,Grapes,1,damaged packaging,1.4
+2025-06-02,KWI,Kiwis,4,damaged packaging,3.0
+2025-06-02,BLU,Blueberries,4,damaged packaging,10.0
+2025-06-03,BAN,Bananas,2,overripe,1.4
+2025-06-03,STR,Strawberries,1,bruised,2.2
+2025-06-03,KWI,Kiwis,1,bruised,0.75
+2025-06-03,LEM,Lemons,1,bruised,0.5
+2025-06-04,APL,Apples,1,overripe,1.1
+2025-06-04,ORG,Oranges,1,bruised,0.85
+2025-06-04,GRP,Grapes,2,damaged packaging,2.8
+2025-06-04,PEA,Pears,2,bruised,2.0
+2025-06-04,PIN,Pineapples,1,bruised,1.65
+2025-06-04,LEM,Lemons,1,bruised,0.5
+2025-06-04,AVO,Avocados,1,bruised,1.2
+2025-06-05,APL,Apples,2,damaged packaging,2.2
+2025-06-05,BAN,Bananas,1,damaged packaging,0.7
+2025-06-05,MAN,Mangoes,2,bruised,3.6
+2025-06-05,GRP,Grapes,1,bruised,1.4
+2025-06-05,PIN,Pineapples,2,bruised,3.3
+2025-06-05,KWI,Kiwis,1,bruised,0.75
+2025-06-05,LEM,Lemons,1,damaged packaging,0.5
+2025-06-06,APL,Apples,3,damaged packaging,3.3
+2025-06-06,BAN,Bananas,3,bruised,2.1
+2025-06-06,MAN,Mangoes,2,overripe,3.6
+2025-06-06,STR,Strawberries,1,overripe,2.2
+2025-06-06,PIN,Pineapples,1,overripe,1.65
+2025-06-06,BLU,Blueberries,2,bruised,5.0
+2025-06-06,LEM,Lemons,1,bruised,0.5
+2025-06-07,MAN,Mangoes,3,damaged packaging,5.4
+2025-06-07,ORG,Oranges,3,damaged packaging,2.55
+2025-06-07,STR,Strawberries,1,damaged packaging,2.2
+2025-06-07,GRP,Grapes,2,bruised,2.8
+2025-06-07,PEA,Pears,1,bruised,1.0
+2025-06-07,LEM,Lemons,1,overripe,0.5
+2025-06-09,BAN,Bananas,2,damaged packaging,1.4
+2025-06-09,ORG,Oranges,1,bruised,0.85
+2025-06-09,STR,Strawberries,1,damaged packaging,2.2
+2025-06-09,PIN,Pineapples,3,damaged packaging,4.95
+2025-06-09,KWI,Kiwis,1,damaged packaging,0.75
+2025-06-09,AVO,Avocados,1,bruised,1.2
+2025-06-10,ORG,Oranges,1,damaged packaging,0.85
+2025-06-10,PEA,Pears,2,bruised,2.0
+2025-06-10,PIN,Pineapples,2,bruised,3.3
+2025-06-10,KWI,Kiwis,1,overripe,0.75
+2025-06-10,BLU,Blueberries,2,overripe,5.0
+2025-06-10,AVO,Avocados,2,overripe,2.4
+2025-06-11,APL,Apples,2,bruised,2.2
+2025-06-11,BAN,Bananas,4,overripe,2.8
+2025-06-11,STR,Strawberries,3,overripe,6.6
+2025-06-11,KWI,Kiwis,2,overripe,1.5
+2025-06-11,AVO,Avocados,2,overripe,2.4
+2025-06-12,APL,Apples,1,damaged packaging,1.1
+2025-06-12,BAN,Bananas,2,overripe,1.4
+2025-06-12,ORG,Oranges,3,damaged packaging,2.55
+2025-06-12,GRP,Grapes,2,overripe,2.8
+2025-06-12,PIN,Pineapples,1,bruised,1.65
+2025-06-12,KWI,Kiwis,1,overripe,0.75
+2025-06-12,LEM,Lemons,3,bruised,1.5
+2025-06-13,MAN,Mangoes,1,damaged packaging,1.8
+2025-06-13,PIN,Pineapples,1,bruised,1.65
+2025-06-13,BLU,Blueberries,3,bruised,7.5
+2025-06-13,AVO,Avocados,1,bruised,1.2
+2025-06-14,STR,Strawberries,2,damaged packaging,4.4
+2025-06-14,GRP,Grapes,1,bruised,1.4
+2025-06-14,PEA,Pears,1,overripe,1.0
+2025-06-14,PIN,Pineapples,3,damaged packaging,4.95
+2025-06-14,KWI,Kiwis,2,overripe,1.5
+2025-06-14,BLU,Blueberries,1,bruised,2.5
+2025-06-14,LEM,Lemons,3,bruised,1.5
+2025-06-14,AVO,Avocados,2,overripe,2.4
+2025-06-16,APL,Apples,1,bruised,1.1
+2025-06-16,BAN,Bananas,3,overripe,2.1
+2025-06-16,ORG,Oranges,1,damaged packaging,0.85
+2025-06-16,STR,Strawberries,1,damaged packaging,2.2
+2025-06-16,GRP,Grapes,1,damaged packaging,1.4
+2025-06-16,PEA,Pears,1,bruised,1.0
+2025-06-16,KWI,Kiwis,1,damaged packaging,0.75
+2025-06-16,LEM,Lemons,1,bruised,0.5
+2025-06-16,AVO,Avocados,1,damaged packaging,1.2
+2025-06-17,BAN,Bananas,3,bruised,2.1
+2025-06-17,KWI,Kiwis,2,damaged packaging,1.5
+2025-06-17,LEM,Lemons,1,overripe,0.5
+2025-06-18,MAN,Mangoes,3,damaged packaging,5.4
+2025-06-18,ORG,Oranges,2,overripe,1.7
+2025-06-18,STR,Strawberries,3,damaged packaging,6.6
+2025-06-18,GRP,Grapes,3,damaged packaging,4.2
+2025-06-18,PEA,Pears,1,damaged packaging,1.0
+2025-06-18,AVO,Avocados,1,overripe,1.2
+2025-06-19,STR,Strawberries,4,damaged packaging,8.8
+2025-06-20,APL,Apples,1,damaged packaging,1.1
+2025-06-20,PIN,Pineapples,4,damaged packaging,6.6
+2025-06-20,KWI,Kiwis,2,damaged packaging,1.5
+2025-06-20,AVO,Avocados,2,overripe,2.4
+2025-06-21,APL,Apples,1,overripe,1.1
+2025-06-21,BAN,Bananas,1,overripe,0.7
+2025-06-21,STR,Strawberries,1,damaged packaging,2.2
+2025-06-21,GRP,Grapes,1,overripe,1.4
+2025-06-21,PIN,Pineapples,1,overripe,1.65
+2025-06-21,BLU,Blueberries,1,overripe,2.5
+2025-06-21,LEM,Lemons,3,overripe,1.5
+2025-06-21,AVO,Avocados,1,damaged packaging,1.2
+2025-06-23,APL,Apples,2,damaged packaging,2.2
+2025-06-23,STR,Strawberries,1,damaged packaging,2.2
+2025-06-23,GRP,Grapes,3,bruised,4.2
+2025-06-23,PIN,Pineapples,1,bruised,1.65
+2025-06-23,KWI,Kiwis,4,damaged packaging,3.0
+2025-06-23,BLU,Blueberries,1,bruised,2.5
+2025-06-23,LEM,Lemons,3,overripe,1.5
+2025-06-24,BAN,Bananas,2,damaged packaging,1.4
+2025-06-24,ORG,Oranges,4,damaged packaging,3.4
+2025-06-24,PEA,Pears,2,overripe,2.0
+2025-06-24,PIN,Pineapples,1,damaged packaging,1.65
+2025-06-24,BLU,Blueberries,2,damaged packaging,5.0
+2025-06-24,AVO,Avocados,3,overripe,3.6
+2025-06-25,APL,Apples,1,bruised,1.1
+2025-06-25,BAN,Bananas,1,damaged packaging,0.7
+2025-06-25,STR,Strawberries,4,damaged packaging,8.8
+2025-06-25,GRP,Grapes,1,damaged packaging,1.4
+2025-06-25,PIN,Pineapples,2,overripe,3.3
+2025-06-25,KWI,Kiwis,1,damaged packaging,0.75
+2025-06-25,BLU,Blueberries,2,bruised,5.0
+2025-06-25,AVO,Avocados,1,overripe,1.2
+2025-06-26,MAN,Mangoes,3,bruised,5.4
+2025-06-26,PIN,Pineapples,3,damaged packaging,4.95
+2025-06-26,KWI,Kiwis,1,damaged packaging,0.75
+2025-06-26,LEM,Lemons,2,overripe,1.0
+2025-06-27,APL,Apples,1,overripe,1.1
+2025-06-27,MAN,Mangoes,2,bruised,3.6
+2025-06-27,STR,Strawberries,3,bruised,6.6
+2025-06-27,GRP,Grapes,1,overripe,1.4
+2025-06-27,PEA,Pears,3,damaged packaging,3.0
+2025-06-27,BLU,Blueberries,3,overripe,7.5
+2025-06-27,AVO,Avocados,1,damaged packaging,1.2
+2025-06-28,MAN,Mangoes,1,damaged packaging,1.8
+2025-06-28,GRP,Grapes,1,bruised,1.4
+2025-06-28,PEA,Pears,1,overripe,1.0
+2025-06-28,BLU,Blueberries,1,bruised,2.5
+2025-06-30,APL,Apples,2,damaged packaging,2.2
+2025-06-30,BAN,Bananas,2,overripe,1.4
+2025-06-30,MAN,Mangoes,1,bruised,1.8
+2025-06-30,ORG,Oranges,1,overripe,0.85
+2025-06-30,GRP,Grapes,2,overripe,2.8
+2025-06-30,PEA,Pears,1,overripe,1.0
+2025-06-30,PIN,Pineapples,1,damaged packaging,1.65
+2025-06-30,BLU,Blueberries,4,overripe,10.0
+2025-06-30,LEM,Lemons,1,damaged packaging,0.5
+2025-06-30,AVO,Avocados,1,bruised,1.2
+2025-07-01,MAN,Mangoes,2,bruised,3.6
+2025-07-01,KWI,Kiwis,4,damaged packaging,3.0
+2025-07-01,LEM,Lemons,3,damaged packaging,1.5
+2025-07-01,AVO,Avocados,1,bruised,1.2
+2025-07-02,GRP,Grapes,2,damaged packaging,2.8
+2025-07-02,PEA,Pears,4,bruised,4.0
+2025-07-02,PIN,Pineapples,1,damaged packaging,1.65
+2025-07-03,APL,Apples,1,overripe,1.1
+2025-07-03,MAN,Mangoes,3,bruised,5.4
+2025-07-03,ORG,Oranges,2,damaged packaging,1.7
+2025-07-03,GRP,Grapes,2,bruised,2.8
+2025-07-03,PEA,Pears,2,damaged packaging,2.0
+2025-07-03,KWI,Kiwis,1,damaged packaging,0.75
+2025-07-03,LEM,Lemons,3,bruised,1.5
+2025-07-04,APL,Apples,2,damaged packaging,2.2
+2025-07-04,BAN,Bananas,1,bruised,0.7
+2025-07-04,MAN,Mangoes,1,bruised,1.8
+2025-07-04,ORG,Oranges,2,bruised,1.7
+2025-07-04,KWI,Kiwis,3,overripe,2.25
+2025-07-04,BLU,Blueberries,3,damaged packaging,7.5
+2025-07-04,AVO,Avocados,1,overripe,1.2
+2025-07-05,APL,Apples,1,overripe,1.1
+2025-07-05,MAN,Mangoes,2,overripe,3.6
+2025-07-05,ORG,Oranges,3,damaged packaging,2.55
+2025-07-05,STR,Strawberries,2,bruised,4.4
+2025-07-05,PEA,Pears,1,bruised,1.0
+2025-07-05,BLU,Blueberries,2,damaged packaging,5.0
+2025-07-05,AVO,Avocados,3,damaged packaging,3.6
+2025-07-07,BAN,Bananas,1,bruised,0.7
+2025-07-07,PIN,Pineapples,1,damaged packaging,1.65
+2025-07-07,BLU,Blueberries,1,damaged packaging,2.5
+2025-07-07,LEM,Lemons,4,bruised,2.0
+2025-07-08,BAN,Bananas,1,bruised,0.7
+2025-07-08,MAN,Mangoes,3,overripe,5.4
+2025-07-08,ORG,Oranges,1,bruised,0.85
+2025-07-08,STR,Strawberries,1,damaged packaging,2.2
+2025-07-08,GRP,Grapes,2,bruised,2.8
+2025-07-08,BLU,Blueberries,1,overripe,2.5
+2025-07-09,BAN,Bananas,1,damaged packaging,0.7
+2025-07-09,ORG,Oranges,2,damaged packaging,1.7
+2025-07-09,PEA,Pears,1,damaged packaging,1.0
+2025-07-09,PIN,Pineapples,1,bruised,1.65
+2025-07-09,KWI,Kiwis,1,bruised,0.75
+2025-07-09,AVO,Avocados,1,damaged packaging,1.2
+2025-07-10,MAN,Mangoes,3,damaged packaging,5.4
+2025-07-10,ORG,Oranges,1,damaged packaging,0.85
+2025-07-10,PEA,Pears,2,bruised,2.0
+2025-07-10,PIN,Pineapples,1,bruised,1.65
+2025-07-11,APL,Apples,1,bruised,1.1
+2025-07-11,BAN,Bananas,2,overripe,1.4
+2025-07-11,MAN,Mangoes,1,damaged packaging,1.8
+2025-07-11,PEA,Pears,2,bruised,2.0
+2025-07-11,KWI,Kiwis,1,overripe,0.75
+2025-07-11,BLU,Blueberries,1,overripe,2.5
+2025-07-12,BAN,Bananas,3,damaged packaging,2.1
+2025-07-12,STR,Strawberries,1,damaged packaging,2.2
+2025-07-12,GRP,Grapes,1,damaged packaging,1.4
+2025-07-12,PEA,Pears,3,damaged packaging,3.0
+2025-07-12,PIN,Pineapples,4,damaged packaging,6.6
+2025-07-12,BLU,Blueberries,1,overripe,2.5
+2025-07-12,AVO,Avocados,1,bruised,1.2
+2025-07-14,APL,Apples,1,overripe,1.1
+2025-07-14,BAN,Bananas,1,damaged packaging,0.7
+2025-07-14,KWI,Kiwis,1,damaged packaging,0.75
+2025-07-14,LEM,Lemons,1,damaged packaging,0.5
+2025-07-14,AVO,Avocados,1,bruised,1.2
+2025-07-15,ORG,Oranges,1,damaged packaging,0.85
+2025-07-15,STR,Strawberries,1,overripe,2.2
+2025-07-15,PEA,Pears,1,bruised,1.0
+2025-07-15,KWI,Kiwis,4,overripe,3.0
+2025-07-15,BLU,Blueberries,2,bruised,5.0
+2025-07-15,AVO,Avocados,1,damaged packaging,1.2
+2025-07-16,APL,Apples,2,overripe,2.2
+2025-07-16,BAN,Bananas,2,overripe,1.4
+2025-07-16,ORG,Oranges,3,damaged packaging,2.55
+2025-07-16,STR,Strawberries,1,bruised,2.2
+2025-07-16,LEM,Lemons,3,bruised,1.5
+2025-07-16,AVO,Avocados,2,bruised,2.4
+2025-07-17,STR,Strawberries,4,bruised,8.8
+2025-07-17,GRP,Grapes,1,overripe,1.4
+2025-07-17,LEM,Lemons,3,overripe,1.5
+2025-07-17,AVO,Avocados,1,damaged packaging,1.2
+2025-07-18,BAN,Bananas,1,overripe,0.7
+2025-07-18,ORG,Oranges,3,damaged packaging,2.55
+2025-07-18,STR,Strawberries,4,bruised,8.8
+2025-07-18,GRP,Grapes,1,bruised,1.4
+2025-07-18,PEA,Pears,2,bruised,2.0
+2025-07-18,LEM,Lemons,3,damaged packaging,1.5
+2025-07-19,BAN,Bananas,3,damaged packaging,2.1
+2025-07-19,GRP,Grapes,3,damaged packaging,4.2
+2025-07-19,PEA,Pears,1,bruised,1.0
+2025-07-19,BLU,Blueberries,1,overripe,2.5
+2025-07-19,AVO,Avocados,2,bruised,2.4
+2025-07-21,STR,Strawberries,1,overripe,2.2
+2025-07-21,PIN,Pineapples,1,bruised,1.65
+2025-07-21,LEM,Lemons,1,bruised,0.5
+2025-07-22,APL,Apples,2,bruised,2.2
+2025-07-22,STR,Strawberries,1,damaged packaging,2.2
+2025-07-22,GRP,Grapes,1,damaged packaging,1.4
+2025-07-22,PEA,Pears,1,overripe,1.0
+2025-07-23,APL,Apples,1,damaged packaging,1.1
+2025-07-23,MAN,Mangoes,2,overripe,3.6
+2025-07-23,STR,Strawberries,1,bruised,2.2
+2025-07-23,GRP,Grapes,4,damaged packaging,5.6
+2025-07-24,APL,Apples,1,overripe,1.1
+2025-07-24,ORG,Oranges,2,bruised,1.7
+2025-07-24,STR,Strawberries,2,bruised,4.4
+2025-07-24,PIN,Pineapples,1,overripe,1.65
+2025-07-24,KWI,Kiwis,1,damaged packaging,0.75
+2025-07-24,BLU,Blueberries,1,bruised,2.5
+2025-07-24,AVO,Avocados,4,overripe,4.8
+2025-07-25,APL,Apples,4,damaged packaging,4.4
+2025-07-25,BAN,Bananas,1,overripe,0.7
+2025-07-25,ORG,Oranges,2,bruised,1.7
+2025-07-25,PIN,Pineapples,1,bruised,1.65
+2025-07-25,BLU,Blueberries,2,bruised,5.0
+2025-07-26,APL,Apples,1,bruised,1.1
+2025-07-26,MAN,Mangoes,1,overripe,1.8
+2025-07-26,PIN,Pineapples,1,damaged packaging,1.65
+2025-07-28,BAN,Bananas,1,damaged packaging,0.7
+2025-07-28,MAN,Mangoes,1,overripe,1.8
+2025-07-28,PEA,Pears,1,overripe,1.0
+2025-07-28,PIN,Pineapples,1,damaged packaging,1.65
+2025-07-28,KWI,Kiwis,3,bruised,2.25
+2025-07-28,LEM,Lemons,1,overripe,0.5
+2025-07-29,BAN,Bananas,1,overripe,0.7
+2025-07-29,PEA,Pears,1,damaged packaging,1.0
+2025-07-29,KWI,Kiwis,2,bruised,1.5
+2025-07-29,LEM,Lemons,1,damaged packaging,0.5
+2025-07-29,AVO,Avocados,3,bruised,3.6
+2025-07-30,BAN,Bananas,2,damaged packaging,1.4
+2025-07-30,ORG,Oranges,3,bruised,2.55
+2025-07-30,PEA,Pears,1,damaged packaging,1.0
+2025-07-30,PIN,Pineapples,1,overripe,1.65
+2025-07-30,LEM,Lemons,3,overripe,1.5
+2025-07-30,AVO,Avocados,1,bruised,1.2
+2025-07-31,APL,Apples,1,bruised,1.1
+2025-07-31,GRP,Grapes,1,damaged packaging,1.4
+2025-07-31,PEA,Pears,2,overripe,2.0
+2025-07-31,KWI,Kiwis,3,bruised,2.25
+2025-07-31,AVO,Avocados,2,damaged packaging,2.4
+2025-08-01,APL,Apples,3,damaged packaging,3.3
+2025-08-01,ORG,Oranges,2,damaged packaging,1.7
+2025-08-01,GRP,Grapes,1,bruised,1.4
+2025-08-01,PEA,Pears,1,damaged packaging,1.0
+2025-08-01,LEM,Lemons,1,overripe,0.5
+2025-08-02,MAN,Mangoes,1,damaged packaging,1.8
+2025-08-02,STR,Strawberries,4,damaged packaging,8.8
+2025-08-02,PEA,Pears,1,damaged packaging,1.0
+2025-08-02,KWI,Kiwis,4,damaged packaging,3.0
+2025-08-02,BLU,Blueberries,3,bruised,7.5
+2025-08-02,LEM,Lemons,3,bruised,1.5
+2025-08-02,AVO,Avocados,1,damaged packaging,1.2
+2025-08-04,APL,Apples,3,damaged packaging,3.3
+2025-08-04,BAN,Bananas,1,bruised,0.7
+2025-08-04,MAN,Mangoes,1,overripe,1.8
+2025-08-04,STR,Strawberries,2,bruised,4.4
+2025-08-04,KWI,Kiwis,2,damaged packaging,1.5
+2025-08-05,STR,Strawberries,1,overripe,2.2
+2025-08-05,PEA,Pears,2,bruised,2.0
+2025-08-05,PIN,Pineapples,1,bruised,1.65
+2025-08-05,BLU,Blueberries,1,overripe,2.5
+2025-08-06,MAN,Mangoes,1,overripe,1.8
+2025-08-06,STR,Strawberries,2,bruised,4.4
+2025-08-06,KWI,Kiwis,1,damaged packaging,0.75
+2025-08-06,BLU,Blueberries,1,bruised,2.5
+2025-08-07,APL,Apples,4,overripe,4.4
+2025-08-07,ORG,Oranges,1,damaged packaging,0.85
+2025-08-07,GRP,Grapes,2,overripe,2.8
+2025-08-07,BLU,Blueberries,3,bruised,7.5
+2025-08-07,AVO,Avocados,1,overripe,1.2
+2025-08-08,BAN,Bananas,2,damaged packaging,1.4
+2025-08-08,BLU,Blueberries,1,damaged packaging,2.5
+2025-08-08,LEM,Lemons,1,damaged packaging,0.5
+2025-08-09,MAN,Mangoes,2,damaged packaging,3.6
+2025-08-09,ORG,Oranges,4,overripe,3.4
+2025-08-09,AVO,Avocados,2,damaged packaging,2.4
+2025-08-11,ORG,Oranges,3,overripe,2.55
+2025-08-11,GRP,Grapes,3,bruised,4.2
+2025-08-11,KWI,Kiwis,1,overripe,0.75
+2025-08-11,BLU,Blueberries,1,bruised,2.5
+2025-08-11,LEM,Lemons,1,overripe,0.5
+2025-08-12,GRP,Grapes,4,overripe,5.6
+2025-08-12,KWI,Kiwis,1,overripe,0.75
+2025-08-12,LEM,Lemons,1,bruised,0.5
+2025-08-12,AVO,Avocados,2,overripe,2.4
+2025-08-13,BAN,Bananas,2,damaged packaging,1.4
+2025-08-13,MAN,Mangoes,4,bruised,7.2
+2025-08-13,STR,Strawberries,1,overripe,2.2
+2025-08-13,PIN,Pineapples,4,overripe,6.6
+2025-08-13,LEM,Lemons,1,bruised,0.5
+2025-08-13,AVO,Avocados,1,damaged packaging,1.2
+2025-08-14,APL,Apples,1,bruised,1.1
+2025-08-14,BAN,Bananas,1,bruised,0.7
+2025-08-14,GRP,Grapes,1,overripe,1.4
+2025-08-14,PEA,Pears,4,bruised,4.0
+2025-08-14,BLU,Blueberries,1,bruised,2.5
+2025-08-15,ORG,Oranges,2,bruised,1.7
+2025-08-15,GRP,Grapes,2,bruised,2.8
+2025-08-15,BLU,Blueberries,1,damaged packaging,2.5
+2025-08-16,APL,Apples,4,damaged packaging,4.4
+2025-08-16,BAN,Bananas,4,bruised,2.8
+2025-08-16,MAN,Mangoes,1,overripe,1.8
+2025-08-16,ORG,Oranges,1,overripe,0.85
+2025-08-16,GRP,Grapes,4,bruised,5.6
+2025-08-16,KWI,Kiwis,1,bruised,0.75
+2025-08-16,AVO,Avocados,1,bruised,1.2
+2025-08-18,STR,Strawberries,1,bruised,2.2
+2025-08-18,PIN,Pineapples,2,overripe,3.3
+2025-08-18,LEM,Lemons,1,damaged packaging,0.5
+2025-08-19,ORG,Oranges,1,bruised,0.85
+2025-08-19,PIN,Pineapples,1,overripe,1.65
+2025-08-19,BLU,Blueberries,1,bruised,2.5
+2025-08-19,LEM,Lemons,1,damaged packaging,0.5
+2025-08-19,AVO,Avocados,3,damaged packaging,3.6
+2025-08-20,BAN,Bananas,1,bruised,0.7
+2025-08-20,ORG,Oranges,2,bruised,1.7
+2025-08-20,AVO,Avocados,1,overripe,1.2
+2025-08-21,APL,Apples,1,overripe,1.1
+2025-08-21,BAN,Bananas,3,bruised,2.1
+2025-08-21,ORG,Oranges,3,damaged packaging,2.55
+2025-08-21,GRP,Grapes,1,overripe,1.4
+2025-08-21,PEA,Pears,1,damaged packaging,1.0
+2025-08-21,KWI,Kiwis,3,damaged packaging,2.25
+2025-08-21,LEM,Lemons,2,bruised,1.0
+2025-08-21,AVO,Avocados,1,damaged packaging,1.2
+2025-08-22,MAN,Mangoes,1,bruised,1.8
+2025-08-22,ORG,Oranges,3,bruised,2.55
+2025-08-22,STR,Strawberries,1,bruised,2.2
+2025-08-22,GRP,Grapes,3,bruised,4.2
+2025-08-22,PIN,Pineapples,3,damaged packaging,4.95
+2025-08-22,KWI,Kiwis,1,overripe,0.75
+2025-08-22,BLU,Blueberries,2,overripe,5.0
+2025-08-22,AVO,Avocados,1,damaged packaging,1.2
+2025-08-23,APL,Apples,2,bruised,2.2
+2025-08-23,ORG,Oranges,2,overripe,1.7
+2025-08-23,STR,Strawberries,2,overripe,4.4
+2025-08-23,GRP,Grapes,2,damaged packaging,2.8
+2025-08-23,PIN,Pineapples,2,bruised,3.3
+2025-08-23,BLU,Blueberries,2,overripe,5.0
+2025-08-23,LEM,Lemons,1,damaged packaging,0.5
+2025-08-23,AVO,Avocados,1,damaged packaging,1.2
+2025-08-25,APL,Apples,1,damaged packaging,1.1
+2025-08-25,ORG,Oranges,1,overripe,0.85
+2025-08-25,STR,Strawberries,1,damaged packaging,2.2
+2025-08-25,GRP,Grapes,1,bruised,1.4
+2025-08-25,KWI,Kiwis,2,overripe,1.5
+2025-08-25,LEM,Lemons,2,overripe,1.0
+2025-08-25,AVO,Avocados,3,damaged packaging,3.6
+2025-08-26,ORG,Oranges,1,overripe,0.85
+2025-08-26,LEM,Lemons,2,bruised,1.0
+2025-08-27,APL,Apples,2,damaged packaging,2.2
+2025-08-27,STR,Strawberries,1,damaged packaging,2.2
+2025-08-27,PIN,Pineapples,1,damaged packaging,1.65
+2025-08-27,KWI,Kiwis,1,bruised,0.75
+2025-08-27,AVO,Avocados,1,damaged packaging,1.2
+2025-08-28,APL,Apples,1,overripe,1.1
+2025-08-28,ORG,Oranges,3,damaged packaging,2.55
+2025-08-28,KWI,Kiwis,4,bruised,3.0
+2025-08-28,BLU,Blueberries,2,damaged packaging,5.0
+2025-08-29,BAN,Bananas,1,bruised,0.7
+2025-08-29,PIN,Pineapples,3,bruised,4.95
+2025-08-29,KWI,Kiwis,4,damaged packaging,3.0
+2025-08-30,APL,Apples,2,damaged packaging,2.2
+2025-08-30,BAN,Bananas,1,overripe,0.7
+2025-08-30,STR,Strawberries,2,overripe,4.4
+2025-08-30,GRP,Grapes,4,overripe,5.6
+2025-08-30,PEA,Pears,1,overripe,1.0
+2025-08-30,KWI,Kiwis,2,damaged packaging,1.5
+2025-08-30,BLU,Blueberries,1,bruised,2.5
+2025-08-30,AVO,Avocados,1,bruised,1.2
+2025-09-01,APL,Apples,3,damaged packaging,3.3
+2025-09-01,MAN,Mangoes,2,damaged packaging,3.6
+2025-09-01,ORG,Oranges,1,overripe,0.85
+2025-09-01,PEA,Pears,2,bruised,2.0
+2025-09-01,PIN,Pineapples,1,overripe,1.65
+2025-09-01,BLU,Blueberries,3,damaged packaging,7.5
+2025-09-02,APL,Apples,1,bruised,1.1
+2025-09-02,STR,Strawberries,4,damaged packaging,8.8
+2025-09-02,GRP,Grapes,1,overripe,1.4
+2025-09-02,LEM,Lemons,1,bruised,0.5
+2025-09-03,APL,Apples,3,damaged packaging,3.3
+2025-09-03,MAN,Mangoes,1,bruised,1.8
+2025-09-03,PIN,Pineapples,1,bruised,1.65
+2025-09-03,KWI,Kiwis,1,bruised,0.75
+2025-09-04,MAN,Mangoes,1,damaged packaging,1.8
+2025-09-04,ORG,Oranges,1,bruised,0.85
+2025-09-04,STR,Strawberries,4,bruised,8.8
+2025-09-04,GRP,Grapes,1,bruised,1.4
+2025-09-04,KWI,Kiwis,4,overripe,3.0
+2025-09-04,LEM,Lemons,2,damaged packaging,1.0
+2025-09-05,STR,Strawberries,2,overripe,4.4
+2025-09-05,PIN,Pineapples,1,damaged packaging,1.65
+2025-09-05,LEM,Lemons,1,damaged packaging,0.5
+2025-09-05,AVO,Avocados,2,overripe,2.4
+2025-09-06,STR,Strawberries,1,overripe,2.2
+2025-09-06,GRP,Grapes,1,bruised,1.4
+2025-09-06,PIN,Pineapples,3,bruised,4.95
+2025-09-06,KWI,Kiwis,1,bruised,0.75
+2025-09-08,MAN,Mangoes,1,overripe,1.8
+2025-09-08,ORG,Oranges,4,bruised,3.4
+2025-09-08,STR,Strawberries,1,overripe,2.2
+2025-09-08,PEA,Pears,2,damaged packaging,2.0
+2025-09-08,BLU,Blueberries,4,bruised,10.0
+2025-09-08,LEM,Lemons,2,damaged packaging,1.0
+2025-09-09,APL,Apples,1,damaged packaging,1.1
+2025-09-09,BAN,Bananas,3,bruised,2.1
+2025-09-09,MAN,Mangoes,1,overripe,1.8
+2025-09-09,ORG,Oranges,1,overripe,0.85
+2025-09-09,GRP,Grapes,1,overripe,1.4
+2025-09-09,KWI,Kiwis,1,overripe,0.75
+2025-09-09,AVO,Avocados,1,overripe,1.2
+2025-09-10,ORG,Oranges,1,damaged packaging,0.85
+2025-09-10,KWI,Kiwis,1,damaged packaging,0.75
+2025-09-10,LEM,Lemons,4,overripe,2.0
+2025-09-10,AVO,Avocados,1,damaged packaging,1.2
+2025-09-11,APL,Apples,1,damaged packaging,1.1
+2025-09-11,BAN,Bananas,2,bruised,1.4
+2025-09-11,MAN,Mangoes,2,damaged packaging,3.6
+2025-09-11,STR,Strawberries,3,overripe,6.6
+2025-09-11,GRP,Grapes,3,damaged packaging,4.2
+2025-09-11,PEA,Pears,1,bruised,1.0
+2025-09-11,PIN,Pineapples,2,damaged packaging,3.3
+2025-09-11,KWI,Kiwis,1,damaged packaging,0.75
+2025-09-11,BLU,Blueberries,2,bruised,5.0
+2025-09-12,MAN,Mangoes,1,damaged packaging,1.8
+2025-09-12,ORG,Oranges,1,overripe,0.85
+2025-09-12,GRP,Grapes,2,damaged packaging,2.8
+2025-09-12,BLU,Blueberries,3,bruised,7.5
+2025-09-12,LEM,Lemons,1,bruised,0.5
+2025-09-13,APL,Apples,3,damaged packaging,3.3
+2025-09-13,BAN,Bananas,1,bruised,0.7
+2025-09-13,MAN,Mangoes,2,damaged packaging,3.6
+2025-09-13,ORG,Oranges,1,damaged packaging,0.85
+2025-09-13,AVO,Avocados,1,damaged packaging,1.2
+2025-09-15,APL,Apples,1,bruised,1.1
+2025-09-15,PEA,Pears,1,overripe,1.0
+2025-09-15,AVO,Avocados,2,bruised,2.4
+2025-09-16,APL,Apples,2,overripe,2.2
+2025-09-16,BAN,Bananas,1,overripe,0.7
+2025-09-16,STR,Strawberries,1,bruised,2.2
+2025-09-16,PEA,Pears,1,overripe,1.0
+2025-09-16,LEM,Lemons,1,bruised,0.5
+2025-09-16,AVO,Avocados,3,bruised,3.6
+2025-09-17,APL,Apples,1,damaged packaging,1.1
+2025-09-17,BAN,Bananas,1,damaged packaging,0.7
+2025-09-17,MAN,Mangoes,2,bruised,3.6
+2025-09-17,ORG,Oranges,1,overripe,0.85
+2025-09-17,STR,Strawberries,1,damaged packaging,2.2
+2025-09-17,GRP,Grapes,3,damaged packaging,4.2
+2025-09-17,BLU,Blueberries,2,damaged packaging,5.0
+2025-09-17,AVO,Avocados,1,bruised,1.2
+2025-09-18,GRP,Grapes,3,damaged packaging,4.2
+2025-09-18,PEA,Pears,3,overripe,3.0
+2025-09-18,LEM,Lemons,3,overripe,1.5
+2025-09-18,AVO,Avocados,1,damaged packaging,1.2
+2025-09-19,GRP,Grapes,1,overripe,1.4
+2025-09-19,PEA,Pears,1,overripe,1.0
+2025-09-19,KWI,Kiwis,1,overripe,0.75
+2025-09-19,LEM,Lemons,2,damaged packaging,1.0
+2025-09-19,AVO,Avocados,1,overripe,1.2
+2025-09-20,APL,Apples,2,bruised,2.2
+2025-09-20,MAN,Mangoes,3,bruised,5.4
+2025-09-20,ORG,Oranges,1,bruised,0.85
+2025-09-20,KWI,Kiwis,1,bruised,0.75
+2025-09-20,LEM,Lemons,2,damaged packaging,1.0
+2025-09-20,AVO,Avocados,1,damaged packaging,1.2
+2025-09-22,BAN,Bananas,1,overripe,0.7
+2025-09-22,MAN,Mangoes,3,damaged packaging,5.4
+2025-09-22,STR,Strawberries,3,damaged packaging,6.6
+2025-09-22,PEA,Pears,1,overripe,1.0
+2025-09-22,PIN,Pineapples,2,damaged packaging,3.3
+2025-09-22,LEM,Lemons,2,overripe,1.0
+2025-09-22,AVO,Avocados,3,bruised,3.6
+2025-09-23,APL,Apples,1,damaged packaging,1.1
+2025-09-23,MAN,Mangoes,1,bruised,1.8
+2025-09-23,STR,Strawberries,3,overripe,6.6
+2025-09-23,GRP,Grapes,3,damaged packaging,4.2
+2025-09-23,PIN,Pineapples,1,overripe,1.65
+2025-09-23,KWI,Kiwis,1,bruised,0.75
+2025-09-23,LEM,Lemons,1,damaged packaging,0.5
+2025-09-24,APL,Apples,3,overripe,3.3
+2025-09-24,ORG,Oranges,1,damaged packaging,0.85
+2025-09-24,GRP,Grapes,3,overripe,4.2
+2025-09-24,PEA,Pears,4,bruised,4.0
+2025-09-24,KWI,Kiwis,1,damaged packaging,0.75
+2025-09-25,APL,Apples,1,damaged packaging,1.1
+2025-09-25,ORG,Oranges,1,overripe,0.85
+2025-09-25,STR,Strawberries,2,damaged packaging,4.4
+2025-09-25,GRP,Grapes,3,bruised,4.2
+2025-09-25,PIN,Pineapples,2,damaged packaging,3.3
+2025-09-25,KWI,Kiwis,3,damaged packaging,2.25
+2025-09-25,BLU,Blueberries,1,damaged packaging,2.5
+2025-09-25,AVO,Avocados,3,bruised,3.6
+2025-09-26,ORG,Oranges,1,bruised,0.85
+2025-09-26,PEA,Pears,1,bruised,1.0
+2025-09-26,PIN,Pineapples,2,damaged packaging,3.3
+2025-09-26,KWI,Kiwis,1,damaged packaging,0.75
+2025-09-27,APL,Apples,1,damaged packaging,1.1
+2025-09-27,MAN,Mangoes,1,overripe,1.8
+2025-09-27,GRP,Grapes,1,bruised,1.4
+2025-09-27,BLU,Blueberries,1,damaged packaging,2.5
+2025-09-27,AVO,Avocados,2,bruised,2.4
+2025-09-29,BAN,Bananas,1,damaged packaging,0.7
+2025-09-29,MAN,Mangoes,1,bruised,1.8
+2025-09-29,GRP,Grapes,3,bruised,4.2
+2025-09-29,PEA,Pears,1,damaged packaging,1.0
+2025-09-29,PIN,Pineapples,1,overripe,1.65
+2025-09-29,KWI,Kiwis,3,bruised,2.25
+2025-09-29,LEM,Lemons,4,bruised,2.0
+2025-09-30,BAN,Bananas,1,overripe,0.7
+2025-09-30,BLU,Blueberries,2,bruised,5.0
+2025-09-30,AVO,Avocados,2,damaged packaging,2.4
+2025-10-01,APL,Apples,4,bruised,4.4
+2025-10-01,STR,Strawberries,1,overripe,2.2
+2025-10-01,PIN,Pineapples,2,overripe,3.3
+2025-10-01,KWI,Kiwis,2,overripe,1.5
+2025-10-01,AVO,Avocados,1,damaged packaging,1.2
+2025-10-02,MAN,Mangoes,3,bruised,5.4
+2025-10-02,PIN,Pineapples,2,damaged packaging,3.3
+2025-10-02,KWI,Kiwis,2,bruised,1.5
+2025-10-02,AVO,Avocados,1,bruised,1.2
+2025-10-03,LEM,Lemons,2,damaged packaging,1.0
+2025-10-04,APL,Apples,2,damaged packaging,2.2
+2025-10-04,BAN,Bananas,3,overripe,2.1
+2025-10-04,ORG,Oranges,4,bruised,3.4
+2025-10-04,STR,Strawberries,1,overripe,2.2
+2025-10-04,GRP,Grapes,4,overripe,5.6
+2025-10-04,PEA,Pears,1,overripe,1.0
+2025-10-04,PIN,Pineapples,1,damaged packaging,1.65
+2025-10-04,KWI,Kiwis,1,bruised,0.75
+2025-10-04,LEM,Lemons,3,bruised,1.5
+2025-10-04,AVO,Avocados,2,overripe,2.4
+2025-10-06,BAN,Bananas,2,bruised,1.4
+2025-10-06,ORG,Oranges,2,damaged packaging,1.7
+2025-10-06,PEA,Pears,4,damaged packaging,4.0
+2025-10-06,PIN,Pineapples,1,damaged packaging,1.65
+2025-10-06,KWI,Kiwis,4,overripe,3.0
+2025-10-06,LEM,Lemons,1,bruised,0.5
+2025-10-07,STR,Strawberries,1,overripe,2.2
+2025-10-07,PEA,Pears,2,bruised,2.0
+2025-10-07,PIN,Pineapples,4,overripe,6.6
+2025-10-07,BLU,Blueberries,3,overripe,7.5
+2025-10-07,AVO,Avocados,1,bruised,1.2
+2025-10-08,APL,Apples,1,damaged packaging,1.1
+2025-10-08,ORG,Oranges,1,overripe,0.85
+2025-10-08,STR,Strawberries,3,bruised,6.6
+2025-10-08,GRP,Grapes,1,damaged packaging,1.4
+2025-10-08,PEA,Pears,1,bruised,1.0
+2025-10-08,PIN,Pineapples,1,bruised,1.65
+2025-10-08,KWI,Kiwis,2,overripe,1.5
+2025-10-08,AVO,Avocados,1,damaged packaging,1.2
+2025-10-09,APL,Apples,3,overripe,3.3
+2025-10-09,MAN,Mangoes,1,overripe,1.8
+2025-10-09,ORG,Oranges,1,overripe,0.85
+2025-10-09,STR,Strawberries,1,overripe,2.2
+2025-10-09,BLU,Blueberries,1,bruised,2.5
+2025-10-10,APL,Apples,1,bruised,1.1
+2025-10-10,MAN,Mangoes,3,overripe,5.4
+2025-10-10,ORG,Oranges,2,overripe,1.7
+2025-10-10,STR,Strawberries,1,overripe,2.2
+2025-10-10,PIN,Pineapples,1,overripe,1.65
+2025-10-10,BLU,Blueberries,1,overripe,2.5
+2025-10-11,STR,Strawberries,3,overripe,6.6
+2025-10-11,KWI,Kiwis,2,overripe,1.5
+2025-10-11,LEM,Lemons,2,bruised,1.0
+2025-10-11,AVO,Avocados,1,damaged packaging,1.2
+2025-10-13,ORG,Oranges,1,bruised,0.85
+2025-10-13,GRP,Grapes,1,bruised,1.4
+2025-10-13,PEA,Pears,2,damaged packaging,2.0
+2025-10-13,KWI,Kiwis,1,damaged packaging,0.75
+2025-10-13,BLU,Blueberries,2,overripe,5.0
+2025-10-13,LEM,Lemons,1,damaged packaging,0.5
+2025-10-13,AVO,Avocados,2,bruised,2.4
+2025-10-14,APL,Apples,3,bruised,3.3
+2025-10-14,BAN,Bananas,1,overripe,0.7
+2025-10-14,MAN,Mangoes,1,overripe,1.8
+2025-10-14,ORG,Oranges,1,overripe,0.85
+2025-10-14,STR,Strawberries,1,overripe,2.2
+2025-10-14,KWI,Kiwis,3,damaged packaging,2.25
+2025-10-14,LEM,Lemons,1,overripe,0.5
+2025-10-14,AVO,Avocados,4,damaged packaging,4.8
+2025-10-15,MAN,Mangoes,3,damaged packaging,5.4
+2025-10-15,ORG,Oranges,2,damaged packaging,1.7
+2025-10-15,STR,Strawberries,1,bruised,2.2
+2025-10-15,AVO,Avocados,1,bruised,1.2
+2025-10-16,ORG,Oranges,3,bruised,2.55
+2025-10-16,GRP,Grapes,1,bruised,1.4
+2025-10-16,PEA,Pears,2,bruised,2.0
+2025-10-16,KWI,Kiwis,3,bruised,2.25
+2025-10-17,ORG,Oranges,1,bruised,0.85
+2025-10-17,STR,Strawberries,3,bruised,6.6
+2025-10-17,PEA,Pears,4,overripe,4.0
+2025-10-17,KWI,Kiwis,1,overripe,0.75
+2025-10-17,LEM,Lemons,1,damaged packaging,0.5
+2025-10-17,AVO,Avocados,1,bruised,1.2
+2025-10-18,MAN,Mangoes,1,damaged packaging,1.8
+2025-10-18,STR,Strawberries,1,bruised,2.2
+2025-10-18,GRP,Grapes,3,overripe,4.2
+2025-10-18,PEA,Pears,2,damaged packaging,2.0
+2025-10-18,KWI,Kiwis,3,damaged packaging,2.25
+2025-10-18,BLU,Blueberries,2,overripe,5.0
+2025-10-21,APL,Apples,1,bruised,1.1
+2025-10-21,BAN,Bananas,2,bruised,1.4
+2025-10-21,MAN,Mangoes,1,damaged packaging,1.8
+2025-10-21,GRP,Grapes,1,bruised,1.4
+2025-10-21,PEA,Pears,1,overripe,1.0
+2025-10-21,PIN,Pineapples,1,overripe,1.65
+2025-10-21,KWI,Kiwis,2,overripe,1.5
+2025-10-21,BLU,Blueberries,2,bruised,5.0
+2025-10-21,LEM,Lemons,4,bruised,2.0
+2025-10-22,BAN,Bananas,2,bruised,1.4
+2025-10-22,ORG,Oranges,2,overripe,1.7
+2025-10-22,STR,Strawberries,2,bruised,4.4
+2025-10-22,GRP,Grapes,3,overripe,4.2
+2025-10-22,KWI,Kiwis,1,bruised,0.75
+2025-10-22,BLU,Blueberries,1,overripe,2.5
+2025-10-22,LEM,Lemons,2,overripe,1.0
+2025-10-23,BAN,Bananas,1,overripe,0.7
+2025-10-23,MAN,Mangoes,3,bruised,5.4
+2025-10-23,ORG,Oranges,3,damaged packaging,2.55
+2025-10-23,STR,Strawberries,1,damaged packaging,2.2
+2025-10-23,PEA,Pears,2,damaged packaging,2.0
+2025-10-23,KWI,Kiwis,1,damaged packaging,0.75
+2025-10-23,LEM,Lemons,3,bruised,1.5
+2025-10-24,APL,Apples,1,overripe,1.1
+2025-10-24,BAN,Bananas,4,overripe,2.8
+2025-10-24,MAN,Mangoes,3,bruised,5.4
+2025-10-24,STR,Strawberries,3,damaged packaging,6.6
+2025-10-24,PEA,Pears,1,overripe,1.0
+2025-10-24,KWI,Kiwis,1,damaged packaging,0.75
+2025-10-24,LEM,Lemons,1,damaged packaging,0.5
+2025-10-24,AVO,Avocados,1,bruised,1.2
+2025-10-25,BAN,Bananas,1,overripe,0.7
+2025-10-25,STR,Strawberries,1,bruised,2.2
+2025-10-25,PIN,Pineapples,1,overripe,1.65
+2025-10-25,KWI,Kiwis,1,overripe,0.75
+2025-10-27,APL,Apples,1,damaged packaging,1.1
+2025-10-27,MAN,Mangoes,4,damaged packaging,7.2
+2025-10-27,ORG,Oranges,2,bruised,1.7
+2025-10-27,GRP,Grapes,2,overripe,2.8
+2025-10-27,PIN,Pineapples,2,overripe,3.3
+2025-10-28,APL,Apples,1,bruised,1.1
+2025-10-28,ORG,Oranges,1,damaged packaging,0.85
+2025-10-28,PEA,Pears,1,bruised,1.0
+2025-10-28,BLU,Blueberries,1,overripe,2.5
+2025-10-28,LEM,Lemons,2,overripe,1.0
+2025-10-28,AVO,Avocados,4,overripe,4.8
+2025-10-29,APL,Apples,1,overripe,1.1
+2025-10-29,BAN,Bananas,4,overripe,2.8
+2025-10-29,STR,Strawberries,1,bruised,2.2
+2025-10-29,PEA,Pears,1,overripe,1.0
+2025-10-29,KWI,Kiwis,2,damaged packaging,1.5
+2025-10-29,LEM,Lemons,1,bruised,0.5
+2025-10-30,APL,Apples,3,overripe,3.3
+2025-10-30,BAN,Bananas,1,damaged packaging,0.7
+2025-10-30,MAN,Mangoes,1,damaged packaging,1.8
+2025-10-30,ORG,Oranges,4,damaged packaging,3.4
+2025-10-30,STR,Strawberries,1,overripe,2.2
+2025-10-30,GRP,Grapes,3,damaged packaging,4.2
+2025-10-30,PEA,Pears,2,overripe,2.0
+2025-10-30,PIN,Pineapples,2,damaged packaging,3.3
+2025-10-30,KWI,Kiwis,2,damaged packaging,1.5
+2025-10-30,BLU,Blueberries,2,overripe,5.0
+2025-10-31,APL,Apples,1,bruised,1.1
+2025-10-31,BAN,Bananas,1,damaged packaging,0.7
+2025-10-31,MAN,Mangoes,1,overripe,1.8
+2025-10-31,GRP,Grapes,3,overripe,4.2
+2025-11-01,BAN,Bananas,2,overripe,1.4
+2025-11-01,ORG,Oranges,1,bruised,0.85
+2025-11-01,PIN,Pineapples,1,damaged packaging,1.65
+2025-11-01,KWI,Kiwis,1,bruised,0.75
+2025-11-01,BLU,Blueberries,1,overripe,2.5
+2025-11-01,LEM,Lemons,1,damaged packaging,0.5
+2025-11-03,PEA,Pears,3,bruised,3.0
+2025-11-03,LEM,Lemons,2,damaged packaging,1.0
+2025-11-03,AVO,Avocados,3,overripe,3.6
+2025-11-04,BAN,Bananas,1,damaged packaging,0.7
+2025-11-04,MAN,Mangoes,2,bruised,3.6
+2025-11-04,PEA,Pears,1,overripe,1.0
+2025-11-04,PIN,Pineapples,1,bruised,1.65
+2025-11-04,BLU,Blueberries,1,overripe,2.5
+2025-11-04,LEM,Lemons,2,damaged packaging,1.0
+2025-11-04,AVO,Avocados,3,damaged packaging,3.6
+2025-11-05,APL,Apples,2,bruised,2.2
+2025-11-05,BAN,Bananas,2,damaged packaging,1.4
+2025-11-05,MAN,Mangoes,1,overripe,1.8
+2025-11-05,STR,Strawberries,3,overripe,6.6
+2025-11-05,PIN,Pineapples,4,damaged packaging,6.6
+2025-11-05,BLU,Blueberries,2,overripe,5.0
+2025-11-05,LEM,Lemons,1,damaged packaging,0.5
+2025-11-05,AVO,Avocados,1,damaged packaging,1.2
+2025-11-06,BAN,Bananas,3,damaged packaging,2.1
+2025-11-06,PEA,Pears,2,overripe,2.0
+2025-11-06,LEM,Lemons,3,damaged packaging,1.5
+2025-11-07,PEA,Pears,3,overripe,3.0
+2025-11-07,PIN,Pineapples,1,overripe,1.65
+2025-11-08,BAN,Bananas,1,overripe,0.7
+2025-11-08,ORG,Oranges,1,overripe,0.85
+2025-11-08,GRP,Grapes,4,overripe,5.6
+2025-11-08,PEA,Pears,1,damaged packaging,1.0
+2025-11-08,PIN,Pineapples,1,bruised,1.65
+2025-11-08,KWI,Kiwis,3,bruised,2.25
+2025-11-08,BLU,Blueberries,3,overripe,7.5
+2025-11-10,APL,Apples,1,overripe,1.1
+2025-11-10,STR,Strawberries,2,damaged packaging,4.4
+2025-11-10,PEA,Pears,2,damaged packaging,2.0
+2025-11-10,PIN,Pineapples,1,overripe,1.65
+2025-11-10,AVO,Avocados,2,bruised,2.4
+2025-11-11,APL,Apples,1,overripe,1.1
+2025-11-11,STR,Strawberries,3,damaged packaging,6.6
+2025-11-11,PIN,Pineapples,1,overripe,1.65
+2025-11-12,APL,Apples,2,bruised,2.2
+2025-11-12,MAN,Mangoes,1,overripe,1.8
+2025-11-12,ORG,Oranges,1,overripe,0.85
+2025-11-12,STR,Strawberries,1,overripe,2.2
+2025-11-12,GRP,Grapes,3,damaged packaging,4.2
+2025-11-12,KWI,Kiwis,1,bruised,0.75
+2025-11-12,BLU,Blueberries,4,overripe,10.0
+2025-11-12,AVO,Avocados,1,bruised,1.2
+2025-11-13,APL,Apples,2,damaged packaging,2.2
+2025-11-13,BAN,Bananas,3,bruised,2.1
+2025-11-13,STR,Strawberries,3,overripe,6.6
+2025-11-13,PEA,Pears,3,overripe,3.0
+2025-11-14,APL,Apples,1,damaged packaging,1.1
+2025-11-14,BAN,Bananas,3,damaged packaging,2.1
+2025-11-14,MAN,Mangoes,1,damaged packaging,1.8
+2025-11-14,ORG,Oranges,2,bruised,1.7
+2025-11-14,PIN,Pineapples,3,bruised,4.95
+2025-11-14,BLU,Blueberries,4,overripe,10.0
+2025-11-14,LEM,Lemons,1,damaged packaging,0.5
+2025-11-15,BAN,Bananas,3,bruised,2.1
+2025-11-15,MAN,Mangoes,1,overripe,1.8
+2025-11-15,ORG,Oranges,3,overripe,2.55
+2025-11-15,GRP,Grapes,2,damaged packaging,2.8
+2025-11-15,PEA,Pears,1,bruised,1.0
+2025-11-15,KWI,Kiwis,1,bruised,0.75
+2025-11-15,LEM,Lemons,2,bruised,1.0
+2025-11-17,STR,Strawberries,2,bruised,4.4
+2025-11-17,KWI,Kiwis,1,overripe,0.75
+2025-11-18,APL,Apples,3,damaged packaging,3.3
+2025-11-18,BAN,Bananas,3,overripe,2.1
+2025-11-18,MAN,Mangoes,2,damaged packaging,3.6
+2025-11-18,STR,Strawberries,3,overripe,6.6
+2025-11-19,BAN,Bananas,1,damaged packaging,0.7
+2025-11-19,PEA,Pears,3,overripe,3.0
+2025-11-19,KWI,Kiwis,1,damaged packaging,0.75
+2025-11-19,BLU,Blueberries,1,bruised,2.5
+2025-11-20,APL,Apples,3,overripe,3.3
+2025-11-20,BAN,Bananas,3,overripe,2.1
+2025-11-20,ORG,Oranges,1,bruised,0.85
+2025-11-20,PEA,Pears,4,overripe,4.0
+2025-11-20,KWI,Kiwis,4,damaged packaging,3.0
+2025-11-20,LEM,Lemons,1,overripe,0.5
+2025-11-21,APL,Apples,2,bruised,2.2
+2025-11-21,BAN,Bananas,1,damaged packaging,0.7
+2025-11-21,MAN,Mangoes,1,damaged packaging,1.8
+2025-11-21,STR,Strawberries,4,overripe,8.8
+2025-11-21,PIN,Pineapples,2,overripe,3.3
+2025-11-21,BLU,Blueberries,4,bruised,10.0
+2025-11-21,AVO,Avocados,3,damaged packaging,3.6
+2025-11-22,APL,Apples,1,bruised,1.1
+2025-11-22,BAN,Bananas,1,damaged packaging,0.7
+2025-11-22,MAN,Mangoes,2,overripe,3.6
+2025-11-22,PEA,Pears,1,damaged packaging,1.0
+2025-11-22,LEM,Lemons,2,overripe,1.0
+2025-11-24,APL,Apples,1,bruised,1.1
+2025-11-24,STR,Strawberries,4,overripe,8.8
+2025-11-24,PIN,Pineapples,1,overripe,1.65
+2025-11-24,BLU,Blueberries,2,overripe,5.0
+2025-11-24,LEM,Lemons,1,overripe,0.5
+2025-11-25,MAN,Mangoes,1,bruised,1.8
+2025-11-25,GRP,Grapes,1,damaged packaging,1.4
+2025-11-25,KWI,Kiwis,4,bruised,3.0
+2025-11-26,APL,Apples,1,overripe,1.1
+2025-11-26,STR,Strawberries,1,damaged packaging,2.2
+2025-11-26,PEA,Pears,1,overripe,1.0
+2025-11-26,KWI,Kiwis,1,damaged packaging,0.75
+2025-11-26,BLU,Blueberries,2,bruised,5.0
+2025-11-26,LEM,Lemons,2,bruised,1.0
+2025-11-26,AVO,Avocados,1,damaged packaging,1.2
+2025-11-27,APL,Apples,1,overripe,1.1
+2025-11-27,BAN,Bananas,1,bruised,0.7
+2025-11-27,STR,Strawberries,2,overripe,4.4
+2025-11-27,KWI,Kiwis,2,bruised,1.5
+2025-11-27,BLU,Blueberries,4,bruised,10.0
+2025-11-28,APL,Apples,2,damaged packaging,2.2
+2025-11-28,STR,Strawberries,2,damaged packaging,4.4
+2025-11-28,GRP,Grapes,4,overripe,5.6
+2025-11-28,PEA,Pears,1,damaged packaging,1.0
+2025-11-28,PIN,Pineapples,2,bruised,3.3
+2025-11-28,KWI,Kiwis,1,overripe,0.75
+2025-11-28,BLU,Blueberries,2,damaged packaging,5.0
+2025-11-28,AVO,Avocados,2,overripe,2.4
+2025-11-29,APL,Apples,3,bruised,3.3
+2025-11-29,PEA,Pears,1,bruised,1.0
+2025-11-29,PIN,Pineapples,4,bruised,6.6
+2025-11-29,LEM,Lemons,2,damaged packaging,1.0
+2025-11-29,AVO,Avocados,1,overripe,1.2
+2025-12-01,MAN,Mangoes,3,overripe,5.4
+2025-12-01,ORG,Oranges,3,bruised,2.55
+2025-12-01,PEA,Pears,2,damaged packaging,2.0
+2025-12-01,PIN,Pineapples,1,bruised,1.65
+2025-12-01,KWI,Kiwis,3,overripe,2.25
+2025-12-01,BLU,Blueberries,1,overripe,2.5
+2025-12-01,LEM,Lemons,2,damaged packaging,1.0
+2025-12-01,AVO,Avocados,1,bruised,1.2
+2025-12-02,APL,Apples,3,bruised,3.3
+2025-12-02,STR,Strawberries,2,overripe,4.4
+2025-12-02,GRP,Grapes,1,damaged packaging,1.4
+2025-12-02,LEM,Lemons,4,damaged packaging,2.0
+2025-12-03,APL,Apples,2,damaged packaging,2.2
+2025-12-03,MAN,Mangoes,2,bruised,3.6
+2025-12-03,PEA,Pears,2,damaged packaging,2.0
+2025-12-03,PIN,Pineapples,1,damaged packaging,1.65
+2025-12-03,KWI,Kiwis,3,overripe,2.25
+2025-12-03,LEM,Lemons,3,overripe,1.5
+2025-12-03,AVO,Avocados,1,damaged packaging,1.2
+2025-12-04,APL,Apples,1,overripe,1.1
+2025-12-04,BAN,Bananas,2,overripe,1.4
+2025-12-04,GRP,Grapes,3,bruised,4.2
+2025-12-04,PEA,Pears,1,overripe,1.0
+2025-12-04,KWI,Kiwis,1,bruised,0.75
+2025-12-04,BLU,Blueberries,2,bruised,5.0
+2025-12-05,APL,Apples,1,bruised,1.1
+2025-12-05,BAN,Bananas,4,overripe,2.8
+2025-12-05,ORG,Oranges,2,damaged packaging,1.7
+2025-12-05,STR,Strawberries,1,damaged packaging,2.2
+2025-12-05,KWI,Kiwis,2,damaged packaging,1.5
+2025-12-06,APL,Apples,1,damaged packaging,1.1
+2025-12-06,STR,Strawberries,3,bruised,6.6
+2025-12-06,GRP,Grapes,2,damaged packaging,2.8
+2025-12-06,PEA,Pears,2,bruised,2.0
+2025-12-06,KWI,Kiwis,1,damaged packaging,0.75
+2025-12-06,BLU,Blueberries,2,overripe,5.0
+2025-12-08,ORG,Oranges,1,bruised,0.85
+2025-12-08,PEA,Pears,1,overripe,1.0
+2025-12-08,PIN,Pineapples,4,bruised,6.6
+2025-12-08,BLU,Blueberries,3,overripe,7.5
+2025-12-09,STR,Strawberries,1,damaged packaging,2.2
+2025-12-09,GRP,Grapes,1,bruised,1.4
+2025-12-09,PEA,Pears,3,overripe,3.0
+2025-12-09,KWI,Kiwis,1,bruised,0.75
+2025-12-09,BLU,Blueberries,2,damaged packaging,5.0
+2025-12-09,LEM,Lemons,2,damaged packaging,1.0
+2025-12-09,AVO,Avocados,2,bruised,2.4
+2025-12-10,APL,Apples,1,damaged packaging,1.1
+2025-12-10,BAN,Bananas,1,bruised,0.7
+2025-12-10,MAN,Mangoes,2,bruised,3.6
+2025-12-10,STR,Strawberries,1,bruised,2.2
+2025-12-10,GRP,Grapes,2,damaged packaging,2.8
+2025-12-10,PIN,Pineapples,2,bruised,3.3
+2025-12-10,KWI,Kiwis,1,bruised,0.75
+2025-12-10,LEM,Lemons,1,damaged packaging,0.5
+2025-12-11,APL,Apples,1,bruised,1.1
+2025-12-11,ORG,Oranges,2,damaged packaging,1.7
+2025-12-11,STR,Strawberries,1,damaged packaging,2.2
+2025-12-11,GRP,Grapes,2,overripe,2.8
+2025-12-11,PEA,Pears,2,bruised,2.0
+2025-12-11,BLU,Blueberries,1,overripe,2.5
+2025-12-11,AVO,Avocados,1,overripe,1.2
+2025-12-12,APL,Apples,3,overripe,3.3
+2025-12-12,ORG,Oranges,2,damaged packaging,1.7
+2025-12-12,AVO,Avocados,2,overripe,2.4
+2025-12-13,APL,Apples,1,bruised,1.1
+2025-12-13,ORG,Oranges,3,overripe,2.55
+2025-12-13,PEA,Pears,1,bruised,1.0
+2025-12-13,LEM,Lemons,2,bruised,1.0
+2025-12-13,AVO,Avocados,1,damaged packaging,1.2
+2025-12-15,BAN,Bananas,1,overripe,0.7
+2025-12-15,MAN,Mangoes,1,damaged packaging,1.8
+2025-12-15,ORG,Oranges,2,overripe,1.7
+2025-12-15,STR,Strawberries,2,damaged packaging,4.4
+2025-12-15,KWI,Kiwis,1,damaged packaging,0.75
+2025-12-15,BLU,Blueberries,1,bruised,2.5
+2025-12-16,ORG,Oranges,1,damaged packaging,0.85
+2025-12-16,GRP,Grapes,1,overripe,1.4
+2025-12-17,STR,Strawberries,1,damaged packaging,2.2
+2025-12-17,KWI,Kiwis,2,damaged packaging,1.5
+2025-12-17,LEM,Lemons,1,damaged packaging,0.5
+2025-12-18,BAN,Bananas,1,overripe,0.7
+2025-12-18,MAN,Mangoes,3,damaged packaging,5.4
+2025-12-18,BLU,Blueberries,1,overripe,2.5
+2025-12-19,APL,Apples,4,overripe,4.4
+2025-12-19,BAN,Bananas,1,overripe,0.7
+2025-12-19,MAN,Mangoes,2,bruised,3.6
+2025-12-19,STR,Strawberries,1,bruised,2.2
+2025-12-19,GRP,Grapes,2,bruised,2.8
+2025-12-19,PEA,Pears,3,damaged packaging,3.0
+2025-12-19,BLU,Blueberries,2,damaged packaging,5.0
+2025-12-19,AVO,Avocados,1,damaged packaging,1.2
+2025-12-20,APL,Apples,1,overripe,1.1
+2025-12-20,MAN,Mangoes,2,damaged packaging,3.6
+2025-12-20,ORG,Oranges,3,damaged packaging,2.55
+2025-12-20,STR,Strawberries,3,bruised,6.6
+2025-12-20,PEA,Pears,4,bruised,4.0
+2025-12-20,PIN,Pineapples,1,damaged packaging,1.65
+2025-12-20,KWI,Kiwis,1,bruised,0.75
+2025-12-20,BLU,Blueberries,3,bruised,7.5
+2025-12-20,LEM,Lemons,3,bruised,1.5
+2025-12-20,AVO,Avocados,1,damaged packaging,1.2
+2025-12-22,BAN,Bananas,2,overripe,1.4
+2025-12-22,STR,Strawberries,1,overripe,2.2
+2025-12-22,PIN,Pineapples,3,damaged packaging,4.95
+2025-12-22,KWI,Kiwis,1,bruised,0.75
+2025-12-22,LEM,Lemons,3,overripe,1.5
+2025-12-22,AVO,Avocados,1,bruised,1.2
+2025-12-23,APL,Apples,3,bruised,3.3
+2025-12-23,MAN,Mangoes,2,damaged packaging,3.6
+2025-12-23,ORG,Oranges,1,bruised,0.85
+2025-12-23,STR,Strawberries,1,bruised,2.2
+2025-12-23,PIN,Pineapples,2,bruised,3.3
+2025-12-24,APL,Apples,1,bruised,1.1
+2025-12-24,BAN,Bananas,1,bruised,0.7
+2025-12-24,MAN,Mangoes,1,bruised,1.8
+2025-12-24,GRP,Grapes,1,bruised,1.4
+2025-12-24,KWI,Kiwis,4,overripe,3.0
+2025-12-24,LEM,Lemons,1,overripe,0.5
+2025-12-24,AVO,Avocados,1,damaged packaging,1.2
+2025-12-25,BAN,Bananas,3,overripe,2.1
+2025-12-25,MAN,Mangoes,1,overripe,1.8
+2025-12-25,ORG,Oranges,1,overripe,0.85
+2025-12-25,STR,Strawberries,1,overripe,2.2
+2025-12-25,AVO,Avocados,2,bruised,2.4
+2025-12-26,APL,Apples,1,overripe,1.1
+2025-12-26,MAN,Mangoes,1,overripe,1.8
+2025-12-26,ORG,Oranges,1,damaged packaging,0.85
+2025-12-26,LEM,Lemons,1,overripe,0.5
+2025-12-26,AVO,Avocados,1,damaged packaging,1.2
+2025-12-27,APL,Apples,3,overripe,3.3
+2025-12-27,BAN,Bananas,1,bruised,0.7
+2025-12-27,ORG,Oranges,3,damaged packaging,2.55
+2025-12-27,GRP,Grapes,1,bruised,1.4
+2025-12-27,PEA,Pears,2,bruised,2.0
+2025-12-27,PIN,Pineapples,1,bruised,1.65
+2025-12-27,KWI,Kiwis,1,bruised,0.75
+2025-12-29,GRP,Grapes,2,damaged packaging,2.8
+2025-12-29,PEA,Pears,3,overripe,3.0
+2025-12-29,PIN,Pineapples,1,bruised,1.65
+2025-12-29,BLU,Blueberries,1,bruised,2.5
+2025-12-29,LEM,Lemons,1,overripe,0.5
+2025-12-29,AVO,Avocados,1,bruised,1.2
+2025-12-30,APL,Apples,1,overripe,1.1
+2025-12-30,ORG,Oranges,2,overripe,1.7
+2025-12-30,STR,Strawberries,1,damaged packaging,2.2
+2025-12-30,PIN,Pineapples,1,overripe,1.65
+2025-12-30,KWI,Kiwis,1,damaged packaging,0.75
+2025-12-30,LEM,Lemons,1,bruised,0.5
+2025-12-31,PIN,Pineapples,2,overripe,3.3
+2025-12-31,KWI,Kiwis,1,damaged packaging,0.75
+2025-12-31,LEM,Lemons,1,overripe,0.5
+2025-12-31,AVO,Avocados,3,bruised,3.6

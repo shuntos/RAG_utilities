@@ -1,0 +1,13 @@
+supplier_id,supplier_name,product_id,origin_country,lead_time_days,delivery_weekday,contact_email
+SUP-APL,France Fresh Wholesale Apples,APL,France,2,Monday,orders.apl@example.invalid
+SUP-BAN,Ecuador Fresh Wholesale Bananas,BAN,Ecuador,3,Tuesday,orders.ban@example.invalid
+SUP-MAN,India Fresh Wholesale Mangoes,MAN,India,4,Wednesday,orders.man@example.invalid
+SUP-ORG,Spain Fresh Wholesale Oranges,ORG,Spain,5,Thursday,orders.org@example.invalid
+SUP-STR,France Fresh Wholesale Strawberries,STR,France,2,Friday,orders.str@example.invalid
+SUP-GRP,Italy Fresh Wholesale Grapes,GRP,Italy,3,Monday,orders.grp@example.invalid
+SUP-PEA,France Fresh Wholesale Pears,PEA,France,4,Tuesday,orders.pea@example.invalid
+SUP-PIN,Costa Rica Fresh Wholesale Pineapples,PIN,Costa Rica,5,Wednesday,orders.pin@example.invalid
+SUP-KWI,New Zealand Fresh Wholesale Kiwis,KWI,New Zealand,2,Thursday,orders.kwi@example.invalid
+SUP-BLU,Poland Fresh Wholesale Blueberries,BLU,Poland,3,Friday,orders.blu@example.invalid
+SUP-LEM,Spain Fresh Wholesale Lemons,LEM,Spain,4,Monday,orders.lem@example.invalid
+SUP-AVO,Peru Fresh Wholesale Avocados,AVO,Peru,5,Tuesday,orders.avo@example.invalid

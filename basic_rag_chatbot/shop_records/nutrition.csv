@@ -1,0 +1,13 @@
+product_id,fruit,energy_kcal_per_100g,protein_g_per_100g,vitamin_c_mg_per_100g,nutrition_score_demo_0_100,note
+APL,Apples,52,0.5,4.6,24.5,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+BAN,Bananas,89,1.1,8.7,29.2,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+MAN,Mangoes,60,0.8,36.4,43.2,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+ORG,Oranges,47,0.9,53.2,52.9,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+STR,Strawberries,32,0.7,58.8,55.1,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+GRP,Grapes,69,0.7,3.2,24.6,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+PEA,Pears,57,0.4,4.3,24.0,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+PIN,Pineapples,50,0.5,47.8,48.3,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+KWI,Kiwis,61,1.1,92.7,75.4,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+BLU,Blueberries,57,0.7,9.7,28.1,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+LEM,Lemons,29,1.1,53.0,53.6,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"
+AVO,Avocados,160,2.0,10.0,33.5,"Illustrative score, not an official nutrition rating; values approximate and vary by variety"

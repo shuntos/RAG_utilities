@@ -1,0 +1,19 @@
+FRUIT SHOP CUSTOMER FAQ (SIMULATED)
+
+Q: Are you open on Sundays?
+A: No, we are closed on Sundays.
+
+Q: What time do you open?
+A: We open at 09:00 Monday to Saturday.
+
+Q: Where do your mangoes come from?
+A: Our mangoes are sourced from India, according to the product catalog.
+
+Q: How do I know how many mangoes you have?
+A: Check the most recent dated inventory_daily_2025.csv closing_units for product MAN. Do not answer current availability from historical 2025 records.
+
+Q: Can I get a refund for damaged fruit?
+A: Contact the shop within 24 hours with a receipt; the manager reviews the case.
+
+Q: Which fruit is highest in vitamin C?
+A: Compare vitamin_c_mg_per_100g in nutrition.csv; nutrition data are approximate.

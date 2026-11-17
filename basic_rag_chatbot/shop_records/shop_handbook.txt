@@ -1,0 +1,26 @@
+FRESH GARDEN FRUIT SHOP — SIMULATED BUSINESS HANDBOOK
+All names and records are fictional. Period: 2025. Currency: EUR.
+
+LOCATION AND HOURS
+The fictional store is in Paris, France. Open Monday to Saturday, 09:00–20:00. Closed Sunday. Staff may start before opening for stocking.
+
+CUSTOMER SERVICE
+Customers may ask for fruit availability, prices, origin, nutrition, opening hours, and returns. The assistant should cite source file and date where possible. Prices in products.csv are the 2025 standard price.
+
+RETURNS AND REFUNDS
+Damaged fruit may be reported within 24 hours of purchase with a receipt. A manager reviews replacement or refund requests. Food safety concerns are escalated to the manager.
+
+INVENTORY POLICY
+Inventory is counted daily. Opening stock + deliveries - sales - waste = closing stock. The latest row for a product is the stock on hand at the end of that date. Inventory is measured in saleable units, not kilograms. Reorder thresholds are in products.csv. For a real-time question, query the live database; this historical dataset ends on 2025-12-31.
+
+WASTE POLICY
+Discard damaged or overripe fruit. Waste records contain units, not kilograms. Do not report waste in kg without product weights.
+
+NUTRITION POLICY
+Nutrition values are approximate per 100g. The demo nutrition score is invented for this tutorial and is not an official Nutri-Score. Do not give medical advice based on it.
+
+STAFF AND PRIVACY
+Staff names and schedules are fictional. Do not expose staff contact details or personal information to customers.
+
+SALES AND REPORTING
+Sales revenue is gross sales before taxes and returns. Purchase cost is inventory acquired, not cost of goods sold. Do not treat sales minus purchases as net profit.
